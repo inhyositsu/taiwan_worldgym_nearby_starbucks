@@ -5,6 +5,8 @@
 <title>WG × Starbucks 500m</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
 <style>
   * { box-sizing: border-box; }
   body { margin: 0; font-family: -apple-system, "Noto Sans TC", sans-serif; display: flex; height: 100vh; }
@@ -43,22 +45,43 @@
 <div id="map"></div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<style>
+  .wg-cluster { background:#d61919; color:#fff; border-radius:8px; width:46px; height:46px; display:flex; align-items:center; justify-content:center; font-weight:700; font-size:16px; box-shadow:0 2px 6px rgba(0,0,0,.35); border:2px solid #fff; }
+  .wg-cluster.big { width:56px; height:56px; font-size:18px; }
+</style>
 <script>
 const map = L.map('map').setView([23.7, 121], 8);
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '© OpenStreetMap', maxZoom: 19
 }).addTo(map);
 
-const wgIcon = L.divIcon({ html:'<div style="background:#d61919;color:#fff;padding:2px 6px;border-radius:3px;font-size:11px;font-weight:700;white-space:nowrap">WG</div>', className:'', iconSize:[0,0] });
-const sbIcon = L.divIcon({ html:'<div style="background:#008f4a;color:#fff;padding:2px 6px;border-radius:3px;font-size:11px;font-weight:700;white-space:nowrap">☕</div>', className:'', iconSize:[0,0] });
+const wgBox = 'width:40px;height:40px;display:flex;align-items:center;justify-content:center;border-radius:6px;font-size:13px;font-weight:700;color:#fff;box-shadow:0 1px 3px rgba(0,0,0,.35)';
+const wgIcon = L.divIcon({ html:'<div style="background:#d61919;' + wgBox + '">WG</div>', className:'', iconSize:[40,40], iconAnchor:[20,20] });
+const sbIcon = L.divIcon({ html:'<div style="background:#008f4a;' + wgBox + '">☕</div>', className:'', iconSize:[40,40], iconAnchor:[20,20] });
 
-const overviewLayer = L.layerGroup().addTo(map);
-const wgHitIcon = L.divIcon({ html:'<div style="background:#d61919;color:#fff;padding:2px 6px;border-radius:3px;font-size:11px;font-weight:700;white-space:nowrap;box-shadow:0 1px 3px rgba(0,0,0,.3)">WG</div>', className:'', iconSize:[0,0] });
-const wgMissIcon = L.divIcon({ html:'<div style="background:#888;color:#fff;padding:2px 6px;border-radius:3px;font-size:11px;font-weight:700;white-space:nowrap;opacity:.8">WG</div>', className:'', iconSize:[0,0] });
+const overviewLayer = L.markerClusterGroup({
+  showCoverageOnHover: false,
+  spiderfyOnMaxZoom: true,
+  maxClusterRadius: 50,
+  iconCreateFunction: (cluster) => {
+    const n = cluster.getChildCount();
+    const cls = n >= 20 ? 'wg-cluster big' : 'wg-cluster';
+    return L.divIcon({ html: '<div class="' + cls + '">' + n + '</div>', className: '', iconSize: [46,46] });
+  }
+}).addTo(map);
+const wgHitIcon = L.divIcon({ html:'<div style="background:#d61919;' + wgBox + '">WG</div>', className:'', iconSize:[40,40], iconAnchor:[20,20] });
+const wgMissIcon = L.divIcon({ html:'<div style="background:#888;opacity:.85;' + wgBox + '">WG</div>', className:'', iconSize:[40,40], iconAnchor:[20,20] });
 
 let activeLayer = null;
 let itemElById = {};
-function clearLayer() { if (activeLayer) { map.removeLayer(activeLayer); activeLayer = null; } }
+function clearSelection() {
+  if (activeLayer) { map.removeLayer(activeLayer); activeLayer = null; }
+  document.querySelectorAll('.item.active').forEach(x => x.classList.remove('active'));
+  map.closePopup();
+}
+map.on('click', clearSelection);
+document.addEventListener('keydown', (e) => { if (e.key === 'Escape') clearSelection(); });
 
 function drawOverview(data) {
   overviewLayer.clearLayers();
@@ -78,7 +101,7 @@ function drawOverview(data) {
 }
 
 function focusBranch(b) {
-  clearLayer();
+  if (activeLayer) { map.removeLayer(activeLayer); activeLayer = null; }
   if (b.lat == null) return;
   const g = L.featureGroup();
   L.circle([b.lat, b.lng], { radius: 500, color: '#d61919', weight: 1, fillOpacity: 0.08 }).addTo(g);
