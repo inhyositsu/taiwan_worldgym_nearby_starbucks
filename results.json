@@ -1,0 +1,2587 @@
+[
+  {
+    "slug": "caotun",
+    "name": "World Gym南投草屯店",
+    "address": "542台灣南投縣草屯鎮",
+    "lat": 23.9933816,
+    "lng": 120.7234992,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/caotun",
+    "geocoded": true,
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "changhua-heping",
+    "name": "World Gym彰化和平店",
+    "address": "彰化縣彰化市和平路57號",
+    "lat": 24.0802532,
+    "lng": 120.5401184,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/changhua-heping",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "changhua-lukang",
+    "name": "World Gym彰化鹿港店",
+    "address": "彰化縣鹿港鎮民族路196號",
+    "lat": 24.0542048,
+    "lng": 120.4340841,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/changhua-lukang",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "changhua-xihu",
+    "name": "彰化溪湖店",
+    "address": "彰化縣溪湖鎮西環路398號",
+    "lat": 23.9608264,
+    "lng": 120.4773582,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/changhua-xihu",
+    "starbucks": [
+      {
+        "name": "星巴克 彰化溪湖門市",
+        "address": "514彰化縣溪湖鎮東環路515號",
+        "lat": 23.9622316,
+        "lng": 120.48172459999999,
+        "distance_m": 470.4,
+        "place_id": "ChIJeYB65j9JaTQRViIxqANUSXc"
+      }
+    ],
+    "nearest_starbucks": "星巴克 彰化溪湖門市",
+    "nearest_distance_m": 470.4
+  },
+  {
+    "slug": "changhua-yuanlin",
+    "name": "World Gym彰化員林店",
+    "address": "彰化縣員林市員東路二段490號",
+    "lat": 23.9576915,
+    "lng": 120.5773182,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/changhua-yuanlin",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "chiayi-minzu",
+    "name": "World Gym嘉義民族店",
+    "address": "嘉義市西區民族路608號",
+    "lat": 23.4757516,
+    "lng": 120.4456385,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/chiayi-minzu",
+    "starbucks": [
+      {
+        "name": "星巴克 (嘉義中山門市)",
+        "address": "60041嘉義市西區中山路471號",
+        "lat": 23.4794682,
+        "lng": 120.44579940000001,
+        "distance_m": 413.6,
+        "place_id": "ChIJ02DRQC6UbjQRsAJ5GixpBBM"
+      }
+    ],
+    "nearest_starbucks": "星巴克 (嘉義中山門市)",
+    "nearest_distance_m": 413.6
+  },
+  {
+    "slug": "chiayi-xingye",
+    "name": "全國據點 | World Gym全國健身房據點搜尋 | World Gym世界健身俱樂部",
+    "address": "嘉義市西區興業西路526號",
+    "lat": 23.4696947,
+    "lng": 120.4336007,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/chiayi-xingye",
+    "geocoded": true,
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "chiayi-xingye-west",
+    "name": "",
+    "address": "台灣",
+    "lat": 23.69781,
+    "lng": 120.960515,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/chiayi-xingye-west",
+    "geocoded": true,
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "hsinchu-guangfu",
+    "name": "新竹光復店",
+    "address": "新竹市東區光復路二段151號",
+    "lat": 24.7980508,
+    "lng": 120.9944424,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/hsinchu-guangfu",
+    "starbucks": [
+      {
+        "name": "星巴克 光復清大門市",
+        "address": "300新竹市東區光復路二段406號",
+        "lat": 24.7971631,
+        "lng": 120.99669200000001,
+        "distance_m": 247.6,
+        "place_id": "ChIJRTzE0HI2aDQRWUCg5LibBp4"
+      }
+    ],
+    "nearest_starbucks": "星巴克 光復清大門市",
+    "nearest_distance_m": 247.6
+  },
+  {
+    "slug": "hsinchu-xiangshan",
+    "name": "新竹香山店",
+    "address": "新竹市香山區牛埔里牛埔東路247號2樓",
+    "lat": 24.7977369,
+    "lng": 120.9563084,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/hsinchu-xiangshan",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "hsinchu-xinfeng",
+    "name": "新竹新豐店",
+    "address": "新竹縣新豐鄉明新街137號",
+    "lat": 24.8721006,
+    "lng": 120.9949492,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/hsinchu-xinfeng",
+    "starbucks": [
+      {
+        "name": "星巴克 新竹新豐門市",
+        "address": "304新竹縣新豐鄉新興路202號",
+        "lat": 24.869760799999998,
+        "lng": 120.99679569999999,
+        "distance_m": 320.0,
+        "place_id": "ChIJZ9GdShIxaDQR6BqRy_Yixng"
+      }
+    ],
+    "nearest_starbucks": "星巴克 新竹新豐門市",
+    "nearest_distance_m": 320.0
+  },
+  {
+    "slug": "hsinchu-zhonghua",
+    "name": "World Gym新竹國賓店",
+    "address": "新竹市東區中華路二段190號",
+    "lat": 24.8049653,
+    "lng": 120.9658856,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/hsinchu-zhonghua",
+    "starbucks": [
+      {
+        "name": "星巴克 西大門市",
+        "address": "300新竹市東區西大路323號",
+        "lat": 24.8019347,
+        "lng": 120.9648374,
+        "distance_m": 353.2,
+        "place_id": "ChIJg6NHz-o1aDQRFir5orlEqAE"
+      }
+    ],
+    "nearest_starbucks": "星巴克 西大門市",
+    "nearest_distance_m": 353.2
+  },
+  {
+    "slug": "hsinchu-zhongzheng",
+    "name": "World Gym新竹中正店",
+    "address": "新竹市東區中正路110號",
+    "lat": 24.8058555,
+    "lng": 120.9693637,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/hsinchu-zhongzheng",
+    "starbucks": [
+      {
+        "name": "市定古蹟-新竹州立圖書館 (星巴克新竹州圖門市)",
+        "address": "300新竹市東區文化街8號",
+        "lat": 24.805235399999997,
+        "lng": 120.97115029999999,
+        "distance_m": 193.1,
+        "place_id": "ChIJV_dOzcM1aDQRWEXv2ECbYpc"
+      },
+      {
+        "name": "星巴克 新竹州圖門市",
+        "address": "300新竹市東區文化街8號",
+        "lat": 24.805214799999998,
+        "lng": 120.9712339,
+        "distance_m": 201.8,
+        "place_id": "ChIJPau9rjc1aDQRsSxlBGUC_jM"
+      },
+      {
+        "name": "星巴克 新竹北大門市",
+        "address": "300新竹市北區北大路109號",
+        "lat": 24.810272100000002,
+        "lng": 120.9690116,
+        "distance_m": 492.4,
+        "place_id": "ChIJXWGWksY1aDQRFrauvUJKv8w"
+      }
+    ],
+    "nearest_starbucks": "市定古蹟-新竹州立圖書館 (星巴克新竹州圖門市)",
+    "nearest_distance_m": 193.1
+  },
+  {
+    "slug": "hsinchu-zhubei",
+    "name": "World Gym新竹竹北店",
+    "address": "新竹縣竹北市光明六路東一段189號",
+    "lat": 24.8213445,
+    "lng": 121.0247218,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/hsinchu-zhubei",
+    "starbucks": [
+      {
+        "name": "星巴克 竹北光明門市",
+        "address": "302新竹縣竹北市光明六路東一段316號",
+        "lat": 24.819706399999998,
+        "lng": 121.0275968,
+        "distance_m": 342.6,
+        "place_id": "ChIJDbuZnvw2aDQRRPQGu-JqUYE"
+      }
+    ],
+    "nearest_starbucks": "星巴克 竹北光明門市",
+    "nearest_distance_m": 342.6
+  },
+  {
+    "slug": "hsinchu-zhubei-huaxing",
+    "name": "全國據點 | World Gym全國健身房據點搜尋 | World Gym世界健身俱樂部",
+    "address": "新竹縣竹北市中央路169號",
+    "lat": 24.8332102,
+    "lng": 121.0142843,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/hsinchu-zhubei-huaxing",
+    "starbucks": [
+      {
+        "name": "星巴克 新竹北門市",
+        "address": "302新竹縣竹北市光明一路372號",
+        "lat": 24.8309917,
+        "lng": 121.0126724,
+        "distance_m": 295.5,
+        "place_id": "ChIJk_Ygk5Q2aDQRk4jlpDJoPm8"
+      }
+    ],
+    "nearest_starbucks": "星巴克 新竹北門市",
+    "nearest_distance_m": 295.5
+  },
+  {
+    "slug": "hsinchu-zhulian",
+    "name": "World Gym新竹竹蓮店",
+    "address": "新竹市東區竹蓮街15號",
+    "lat": 24.7967038,
+    "lng": 120.9719844,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/hsinchu-zhulian",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "hualian-guolian",
+    "name": "World Gym花蓮國聯店",
+    "address": "",
+    "lat": 23.9903831,
+    "lng": 121.6058218,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/hualian-guolian",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "hualien-jian",
+    "name": "World Gym花蓮吉安店",
+    "address": "",
+    "lat": 23.9735631,
+    "lng": 121.5791197,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/hualien-jian",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "kaohsiung-baocheng",
+    "name": "World Gym高雄寶成店",
+    "address": "高雄市前鎮區民權二路8號",
+    "lat": 22.6053635,
+    "lng": 120.3098148,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-baocheng",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "kaohsiung-boai",
+    "name": "World Gym高雄博愛店",
+    "address": "高雄市左營區博愛二路320號",
+    "lat": 22.6636463,
+    "lng": 120.3035812,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-boai",
+    "geocoded": true,
+    "starbucks": [
+      {
+        "name": "星巴克 裕誠門市",
+        "address": "813高雄市左營區裕誠路396號",
+        "lat": 22.665749599999998,
+        "lng": 120.30614539999999,
+        "distance_m": 352.0,
+        "place_id": "ChIJNWZ0_wQFbjQRqjv5RvgqOpA"
+      }
+    ],
+    "nearest_starbucks": "星巴克 裕誠門市",
+    "nearest_distance_m": 352.0
+  },
+  {
+    "slug": "kaohsiung-datong-heping",
+    "name": "World Gym高雄大統和平店",
+    "address": "高雄市苓雅區和平一路218號",
+    "lat": 22.6308988,
+    "lng": 120.3178748,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-datong-heping",
+    "starbucks": [
+      {
+        "name": "星巴克 高雄中正門市",
+        "address": "800高雄市新興區中正二路162號",
+        "lat": 22.630500599999998,
+        "lng": 120.317273,
+        "distance_m": 76.0,
+        "place_id": "ChIJl-E8TJQEbjQRMHBv8-VuTN8"
+      }
+    ],
+    "nearest_starbucks": "星巴克 高雄中正門市",
+    "nearest_distance_m": 76.0
+  },
+  {
+    "slug": "kaohsiung-fengshan-wenheng",
+    "name": "World Gym高雄文衡店",
+    "address": "高雄市鳳山區文衡路506號",
+    "lat": 22.6412228,
+    "lng": 120.3495456,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-fengshan-wenheng",
+    "starbucks": [
+      {
+        "name": "星巴克-鳳山建國門市",
+        "address": "83048高雄市鳳山區建國路三段360號",
+        "lat": 22.6380897,
+        "lng": 120.34928639999998,
+        "distance_m": 349.4,
+        "place_id": "ChIJ5V3-r9obbjQRixBnFj9GUbc"
+      },
+      {
+        "name": "星巴克 澄清文衡門市",
+        "address": "807高雄市三民區文衡路505號",
+        "lat": 22.641657600000002,
+        "lng": 120.34603039999999,
+        "distance_m": 364.0,
+        "place_id": "ChIJkZUb-iwbbjQRQeegDxX_6uE"
+      }
+    ],
+    "nearest_starbucks": "星巴克-鳳山建國門市",
+    "nearest_distance_m": 349.4
+  },
+  {
+    "slug": "kaohsiung-fengshan-wujia",
+    "name": "World Gym鳳山五甲店",
+    "address": "高雄市鳳山區五甲三路166、168號",
+    "lat": 22.5910526,
+    "lng": 120.3248506,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-fengshan-wujia",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "kaohsiung-fengshan-zhongshan",
+    "name": "World Gym高雄鳳山店",
+    "address": "高雄市鳳山區中山路149號",
+    "lat": 22.622589,
+    "lng": 120.3581239,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-fengshan-zhongshan",
+    "starbucks": [
+      {
+        "name": "星巴克 鳳山光遠門市",
+        "address": "830高雄市鳳山區光遠路396號",
+        "lat": 22.626168099999997,
+        "lng": 120.3571868,
+        "distance_m": 409.4,
+        "place_id": "ChIJ87u4cDgbbjQRuGq-_bsNHJU"
+      }
+    ],
+    "nearest_starbucks": "星巴克 鳳山光遠門市",
+    "nearest_distance_m": 409.4
+  },
+  {
+    "slug": "kaohsiung-gangshan",
+    "name": "World Gym高雄岡山店",
+    "address": "高雄市岡山區民有路68號",
+    "lat": 22.7921402,
+    "lng": 120.2963979,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-gangshan",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "kaohsiung-nanzi",
+    "name": "World Gym高雄楠梓店",
+    "address": "高雄市楠梓區德民路951號",
+    "lat": 22.7205408,
+    "lng": 120.288905,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-nanzi",
+    "starbucks": [
+      {
+        "name": "星巴克 楠梓德民門市",
+        "address": "811高雄市楠梓區德民路828號",
+        "lat": 22.7219658,
+        "lng": 120.29125979999999,
+        "distance_m": 288.9,
+        "place_id": "ChIJAzAQhnMPbjQRtfgYWB0spL4"
+      }
+    ],
+    "nearest_starbucks": "星巴克 楠梓德民門市",
+    "nearest_distance_m": 288.9
+  },
+  {
+    "slug": "kaohsiung-nanzi-xingnan",
+    "name": "興楠店",
+    "address": "高雄市楠梓區楠盛街88號",
+    "lat": 22.7298662,
+    "lng": 120.3315816,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-nanzi-xingnan",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "kaohsiung-sogo",
+    "name": "World Gym高雄SOGO店",
+    "address": "高雄市前鎮區三多三路217號",
+    "lat": 22.614256,
+    "lng": 120.3061989,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-sogo",
+    "starbucks": [
+      {
+        "name": "星巴克 高雄三多門市",
+        "address": "802高雄市苓雅區三多三路234號",
+        "lat": 22.614752,
+        "lng": 120.30636299999999,
+        "distance_m": 57.7,
+        "place_id": "ChIJ8WdqfH0DbjQRM0U9f4DIgzU"
+      },
+      {
+        "name": "星巴克 高雄遠百門市",
+        "address": "802高雄市苓雅區三多四路21號",
+        "lat": 22.6126115,
+        "lng": 120.3046945,
+        "distance_m": 239.3,
+        "place_id": "ChIJCbgHzn0DbjQRf73TXdxhDjE"
+      }
+    ],
+    "nearest_starbucks": "星巴克 高雄三多門市",
+    "nearest_distance_m": 57.7
+  },
+  {
+    "slug": "kaohsiung-yangming",
+    "name": "World Gym高雄陽明店",
+    "address": "高雄市三民區陽明路201號",
+    "lat": 22.6411884,
+    "lng": 120.3415101,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-yangming",
+    "starbucks": [
+      {
+        "name": "星巴克 澄清文衡門市",
+        "address": "807高雄市三民區文衡路505號",
+        "lat": 22.641657600000002,
+        "lng": 120.34603039999999,
+        "distance_m": 466.8,
+        "place_id": "ChIJkZUb-iwbbjQRQeegDxX_6uE"
+      }
+    ],
+    "nearest_starbucks": "星巴克 澄清文衡門市",
+    "nearest_distance_m": 466.8
+  },
+  {
+    "slug": "kaohsiung-zhonghua",
+    "name": "World Gym高雄中華店",
+    "address": "高雄市前金區中華三路149號",
+    "lat": 22.630512,
+    "lng": 120.2952932,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-zhonghua",
+    "starbucks": [
+      {
+        "name": "Starbucks星巴克中正自強門市",
+        "address": "801高雄市前金區中正四路190號",
+        "lat": 22.629057,
+        "lng": 120.294049,
+        "distance_m": 206.1,
+        "place_id": "ChIJ5zSmFWYFbjQR06q5MqqFKiM"
+      }
+    ],
+    "nearest_starbucks": "Starbucks星巴克中正自強門市",
+    "nearest_distance_m": 206.1
+  },
+  {
+    "slug": "kaohsiung-zuoying",
+    "name": "World Gym高雄左營店",
+    "address": "高雄市左營區重立路428巷1號",
+    "lat": 22.678539,
+    "lng": 120.312529,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-zuoying",
+    "starbucks": [
+      {
+        "name": "星巴克 自由曾子門市",
+        "address": "813029高雄市左營區曾子路1號",
+        "lat": 22.675888999999998,
+        "lng": 120.3124352,
+        "distance_m": 294.8,
+        "place_id": "ChIJR2e6OgAFbjQRi_s5abzf1K4"
+      }
+    ],
+    "nearest_starbucks": "星巴克 自由曾子門市",
+    "nearest_distance_m": 294.8
+  },
+  {
+    "slug": "keelung-xinyi",
+    "name": "World Gym基隆信義店",
+    "address": "基隆市信義區信一路92號",
+    "lat": 25.128565,
+    "lng": 121.7511037,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/keelung-xinyi",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "miaoli-toufen",
+    "name": "World Gym苗栗頭份店",
+    "address": "苗栗縣頭份市和平路102號",
+    "lat": 24.6859788,
+    "lng": 120.906199,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/miaoli-toufen",
+    "starbucks": [
+      {
+        "name": "星巴克 頭份尚順門市",
+        "address": "351苗栗縣頭份市中央路105號",
+        "lat": 24.6890453,
+        "lng": 120.903999,
+        "distance_m": 407.0,
+        "place_id": "ChIJjUtozslMaDQR4zY2fyZ__8E"
+      }
+    ],
+    "nearest_starbucks": "星巴克 頭份尚順門市",
+    "nearest_distance_m": 407.0
+  },
+  {
+    "slug": "miaoli-yuanli",
+    "name": "World Gym苗栗苑裡店",
+    "address": "苗栗縣苑裡鎮為公路65-1號",
+    "lat": 24.4427719,
+    "lng": 120.6529164,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/miaoli-yuanli",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "miaoli-zhunan",
+    "name": "World Gym苗栗竹南店",
+    "address": "苗栗縣竹南鎮民權街51巷51號",
+    "lat": 24.6857902,
+    "lng": 120.8780016,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/miaoli-zhunan",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "nantou-caotun",
+    "name": "World Gym南投草屯店",
+    "address": "南投縣草屯鎮中山街208號",
+    "lat": 23.9783457,
+    "lng": 120.6830707,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/nantou-caotun",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "new-taipei-banciao-chongcing",
+    "name": "World Gym新北板橋重慶店",
+    "address": "新北市板橋區重慶路247號",
+    "lat": 25.0004507,
+    "lng": 121.4636022,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-banciao-chongcing",
+    "starbucks": [
+      {
+        "name": "星巴克 板橋忠孝門市",
+        "address": "220新北市板橋區忠孝路31號",
+        "lat": 25.0021471,
+        "lng": 121.4605376,
+        "distance_m": 361.9,
+        "place_id": "ChIJ8_w6OqQCaDQRVMmgfgfrMNM"
+      }
+    ],
+    "nearest_starbucks": "星巴克 板橋忠孝門市",
+    "nearest_distance_m": 361.9
+  },
+  {
+    "slug": "new-taipei-banqiao-fuzhong",
+    "name": "World Gym新北板橋府中店",
+    "address": "新北市板橋區中山路一段10號",
+    "lat": 25.0078573,
+    "lng": 121.460188,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-banqiao-fuzhong",
+    "starbucks": [
+      {
+        "name": "星巴克 板中門市",
+        "address": "220新北市板橋區中山路一段15號",
+        "lat": 25.0083622,
+        "lng": 121.4600574,
+        "distance_m": 57.7,
+        "place_id": "ChIJUykVf6cCaDQR8PgutsUUhUw"
+      }
+    ],
+    "nearest_starbucks": "星巴克 板中門市",
+    "nearest_distance_m": 57.7
+  },
+  {
+    "slug": "new-taipei-banqiao-shuangshi",
+    "name": "World Gym新北板橋雙十店",
+    "address": "新北市板橋區雙十路2段143號",
+    "lat": 25.0279702,
+    "lng": 121.4748239,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-banqiao-shuangshi",
+    "starbucks": [
+      {
+        "name": "星巴克 板雙門市",
+        "address": "220新北市板橋區雙十路二段193號",
+        "lat": 25.028744999999997,
+        "lng": 121.47355929999999,
+        "distance_m": 153.8,
+        "place_id": "ChIJpbLI0ECoQjQRmwCg1bx6p8s"
+      }
+    ],
+    "nearest_starbucks": "星巴克 板雙門市",
+    "nearest_distance_m": 153.8
+  },
+  {
+    "slug": "new-taipei-banqiao-zhongshan",
+    "name": "World Gym新北板橋中山店",
+    "address": "新北市板橋區中山路二段326號",
+    "lat": 25.0196226,
+    "lng": 121.4812165,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-banqiao-zhongshan",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "new-taipei-beihsinzhuang",
+    "name": "World Gym新北北新莊店",
+    "address": "新北市新莊區幸福路778號",
+    "lat": 25.0494318,
+    "lng": 121.4471942,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-beihsinzhuang",
+    "starbucks": [
+      {
+        "name": "STARBUCKS 星巴克 (新莊門市)",
+        "address": "242新北市新莊區幸福路763-3 號1F 之 1",
+        "lat": 25.0490002,
+        "lng": 121.447587,
+        "distance_m": 62.2,
+        "place_id": "ChIJ27g6MH-oQjQRBMI-KRy-Qgc"
+      }
+    ],
+    "nearest_starbucks": "STARBUCKS 星巴克 (新莊門市)",
+    "nearest_distance_m": 62.2
+  },
+  {
+    "slug": "new-taipei-danshui",
+    "name": "World Gym新北淡水店",
+    "address": "新北市淡水區大忠街89號",
+    "lat": 25.1776959,
+    "lng": 121.4463619,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-danshui",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "new-taipei-hsindian",
+    "name": "World Gym新北新店店",
+    "address": "新北市新店區中興路三段1號",
+    "lat": 24.9769964,
+    "lng": 121.5461308,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-hsindian",
+    "starbucks": [
+      {
+        "name": "Starbucks星巴克 新中門市",
+        "address": "231新北市新店區中興路三段3號",
+        "lat": 24.977645199999998,
+        "lng": 121.5456118,
+        "distance_m": 89.1,
+        "place_id": "ChIJMQq8ZPABaDQRlzRW7MTIo0E"
+      },
+      {
+        "name": "星巴克 新店裕隆城門市",
+        "address": "231新北市新店區中興路三段70號1 樓",
+        "lat": 24.9781947,
+        "lng": 121.5471641,
+        "distance_m": 169.1,
+        "place_id": "ChIJC8Pi4M4BaDQRHaPvsxTEi3A"
+      }
+    ],
+    "nearest_starbucks": "Starbucks星巴克 新中門市",
+    "nearest_distance_m": 89.1
+  },
+  {
+    "slug": "new-taipei-hsinzhuang",
+    "name": "World Gym新北新莊店",
+    "address": "新北市新莊區民安路188巷5號",
+    "lat": 25.023162,
+    "lng": 121.424893,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-hsinzhuang",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "new-taipei-jingping",
+    "name": "World Gym新北景平店",
+    "address": "新北市中和區景平路182號",
+    "lat": 24.9924086,
+    "lng": 121.5164034,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-jingping",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "new-taipei-linkou",
+    "name": "World Gym新北林口店",
+    "address": "桃園市龜山區復興一路222號",
+    "lat": 25.057701,
+    "lng": 121.3654751,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-linkou",
+    "starbucks": [
+      {
+        "name": "星巴克 （林口門市）",
+        "address": "330桃園市龜山區復興一路202號",
+        "lat": 25.0579625,
+        "lng": 121.36590029999999,
+        "distance_m": 51.8,
+        "place_id": "ChIJZaPKDjqnQjQRidkUqsGNo28"
+      },
+      {
+        "name": "星巴克 (長庚文化門市)",
+        "address": "333桃園市龜山區文化二路11-5號",
+        "lat": 25.0595784,
+        "lng": 121.3654277,
+        "distance_m": 208.8,
+        "place_id": "ChIJl24GipqnQjQRQ_UsCnhblM8"
+      },
+      {
+        "name": "星巴克 （龜山復興門市）",
+        "address": "333桃園市龜山區復興北路1號",
+        "lat": 25.059771299999998,
+        "lng": 121.3689811,
+        "distance_m": 421.6,
+        "place_id": "ChIJX6bGPwgeaDQRb0VOzjj8-xs"
+      }
+    ],
+    "nearest_starbucks": "星巴克 （林口門市）",
+    "nearest_distance_m": 51.8
+  },
+  {
+    "slug": "new-taipei-luzhou",
+    "name": "World Gym新北蘆洲店",
+    "address": "新北市蘆洲區民族路31號",
+    "lat": 25.0849744,
+    "lng": 121.4777086,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-luzhou",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "new-taipei-sanchong",
+    "name": "World Gym新北三重店",
+    "address": "新北市三重區重新路2段78號",
+    "lat": 25.0617709,
+    "lng": 121.4974781,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-sanchong",
+    "starbucks": [
+      {
+        "name": "星巴克 (三重正義門市)",
+        "address": "241新北市三重區正義北路140號",
+        "lat": 25.065977,
+        "lng": 121.49657,
+        "distance_m": 476.6,
+        "place_id": "ChIJA7e5gyGpQjQRZlLjBhA20l4"
+      }
+    ],
+    "nearest_starbucks": "星巴克 (三重正義門市)",
+    "nearest_distance_m": 476.6
+  },
+  {
+    "slug": "new-taipei-sanchong-wuhua",
+    "name": "World Gym三重五華店",
+    "address": "新北市三重區五華街282號",
+    "lat": 25.0879576,
+    "lng": 121.4865522,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-sanchong-wuhua",
+    "starbucks": [
+      {
+        "name": "STARBUCKS 星巴克 (重陽集賢門市)",
+        "address": "24151新北市三重區集賢路137號",
+        "lat": 25.0893561,
+        "lng": 121.48919149999999,
+        "distance_m": 307.9,
+        "place_id": "ChIJbfJZQiqvQjQR6VanIMCvspw"
+      }
+    ],
+    "nearest_starbucks": "STARBUCKS 星巴克 (重陽集賢門市)",
+    "nearest_distance_m": 307.9
+  },
+  {
+    "slug": "new-taipei-sanxia",
+    "name": "World Gym台北三峽店",
+    "address": "新北市三峽區文化路59號",
+    "lat": 24.9360815,
+    "lng": 121.3721439,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-sanxia",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "new-taipei-taishan",
+    "name": "World Gym新北泰山店",
+    "address": "新北市泰山區明志路三段83號",
+    "lat": 25.0415974,
+    "lng": 121.4251207,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-taishan",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "new-taipei-tucheng",
+    "name": "World Gym新北土城店",
+    "address": "新北市土城區青雲路152號",
+    "lat": 24.9833595,
+    "lng": 121.4589232,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-tucheng",
+    "starbucks": [
+      {
+        "name": "星巴克 土城門市",
+        "address": "236新北市土城區青雲路152號",
+        "lat": 24.9831458,
+        "lng": 121.45856219999999,
+        "distance_m": 43.5,
+        "place_id": "ChIJO3FOXcYCaDQR5fKKqYtTRVk"
+      }
+    ],
+    "nearest_starbucks": "星巴克 土城門市",
+    "nearest_distance_m": 43.5
+  },
+  {
+    "slug": "new-taipei-tucheng-haishan",
+    "name": "World Gym土城海山店",
+    "address": "新北市土城區明德路二段62號",
+    "lat": 24.9834888,
+    "lng": 121.4436785,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-tucheng-haishan",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "new-taipei-tucheng-zhongyang",
+    "name": "World Gym新北土城中央店",
+    "address": "新北市土城區中央路二段191號",
+    "lat": 24.9754506,
+    "lng": 121.4421511,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-tucheng-zhongyang",
+    "starbucks": [
+      {
+        "name": "STARBUCKS 星巴克 (土城日月光門市)",
+        "address": "236新北市土城區學府路二段210 號1F",
+        "lat": 24.9787201,
+        "lng": 121.44511460000001,
+        "distance_m": 470.5,
+        "place_id": "ChIJz8bOQYwdaDQRTtVdLUiekBg"
+      }
+    ],
+    "nearest_starbucks": "STARBUCKS 星巴克 (土城日月光門市)",
+    "nearest_distance_m": 470.5
+  },
+  {
+    "slug": "new-taipei-xizhi",
+    "name": "World Gym新北汐止店",
+    "address": "新北市汐止區中興路168號",
+    "lat": 25.065599,
+    "lng": 121.6319695,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-xizhi",
+    "starbucks": [
+      {
+        "name": "Starbucks 星巴克 (汐止福德門市)",
+        "address": "221新北市汐止區福德一路190號",
+        "lat": 25.0657653,
+        "lng": 121.63531379999999,
+        "distance_m": 337.4,
+        "place_id": "ChIJoWzegWlTXTQR5OGx_HROJFk"
+      }
+    ],
+    "nearest_starbucks": "Starbucks 星巴克 (汐止福德門市)",
+    "nearest_distance_m": 337.4
+  },
+  {
+    "slug": "new-taipei-yonghe",
+    "name": "World Gym新北永和店",
+    "address": "新北市永和區仁愛路309號",
+    "lat": 25.0077737,
+    "lng": 121.5034366,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-yonghe",
+    "starbucks": [
+      {
+        "name": "星巴克 雙和門市",
+        "address": "234新北市永和區中山路一段240號1樓",
+        "lat": 25.0073641,
+        "lng": 121.50713540000001,
+        "distance_m": 375.5,
+        "place_id": "ChIJo5NwS9upQjQRN23WOydJE7M"
+      }
+    ],
+    "nearest_starbucks": "星巴克 雙和門市",
+    "nearest_distance_m": 375.5
+  },
+  {
+    "slug": "new-taipei-yonghe-minquan",
+    "name": "World Gym新北永和民權店",
+    "address": "新北市永和區民權路53號",
+    "lat": 24.9966733,
+    "lng": 121.5201917,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-yonghe-minquan",
+    "starbucks": [
+      {
+        "name": "STARBUCKS 星巴克 (永和愛買門市)",
+        "address": "234新北市永和區民生路46巷50號",
+        "lat": 24.996501199999997,
+        "lng": 121.5210989,
+        "distance_m": 93.4,
+        "place_id": "ChIJVyD8M-KpQjQRGkPv51PMR_A"
+      }
+    ],
+    "nearest_starbucks": "STARBUCKS 星巴克 (永和愛買門市)",
+    "nearest_distance_m": 93.4
+  },
+  {
+    "slug": "new-taipei-zhonghe",
+    "name": "World Gym新北中和店",
+    "address": "新北市中和區中山路三段35-3號",
+    "lat": 25.005635,
+    "lng": 121.478544,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-zhonghe",
+    "starbucks": [
+      {
+        "name": "星巴克 環球門市",
+        "address": "235新北市中和區中山路三段122號",
+        "lat": 25.007054399999998,
+        "lng": 121.47510390000001,
+        "distance_m": 380.9,
+        "place_id": "ChIJOW18SSeoQjQRrtUr7PJEgbA"
+      }
+    ],
+    "nearest_starbucks": "星巴克 環球門市",
+    "nearest_distance_m": 380.9
+  },
+  {
+    "slug": "pingtung-chaozhou",
+    "name": "World Gym屏東潮州店",
+    "address": "",
+    "lat": 22.5544208,
+    "lng": 120.540115,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/pingtung-chaozhou",
+    "starbucks": [
+      {
+        "name": "星巴克-屏東潮州門市",
+        "address": "920009屏東縣潮州鎮延平路35號",
+        "lat": 22.5524576,
+        "lng": 120.5401141,
+        "distance_m": 218.3,
+        "place_id": "ChIJYTvA5BYhbjQRkMDJAzidR1s"
+      }
+    ],
+    "nearest_starbucks": "星巴克-屏東潮州門市",
+    "nearest_distance_m": 218.3
+  },
+  {
+    "slug": "pingtung-donggang",
+    "name": "World Gym屏東東港店",
+    "address": "",
+    "lat": 22.4683655,
+    "lng": 120.4507283,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/pingtung-donggang",
+    "starbucks": [
+      {
+        "name": "星巴克-屏東東港門市",
+        "address": "928屏東縣東港鎮光復路一段356號",
+        "lat": 22.469179399999998,
+        "lng": 120.4549584,
+        "distance_m": 444.0,
+        "place_id": "ChIJ61q4MyThcTQRg2tU-pQi6BI"
+      }
+    ],
+    "nearest_starbucks": "星巴克-屏東東港門市",
+    "nearest_distance_m": 444.0
+  },
+  {
+    "slug": "pingtung-fengjia",
+    "name": "World Gym屏東逢甲店",
+    "address": "",
+    "lat": 22.6707397,
+    "lng": 120.4873977,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/pingtung-fengjia",
+    "starbucks": [
+      {
+        "name": "星巴克 屏東門市",
+        "address": "900屏東縣屏東市中正路72號",
+        "lat": 22.6739858,
+        "lng": 120.489677,
+        "distance_m": 430.1,
+        "place_id": "ChIJvYsuO5sXbjQRpbuEJ6U_4Lo"
+      }
+    ],
+    "nearest_starbucks": "星巴克 屏東門市",
+    "nearest_distance_m": 430.1
+  },
+  {
+    "slug": "pingtung-ziyou",
+    "name": "World Gym屏東自由店",
+    "address": "900台灣屏東縣屏東市自由路550號B1",
+    "lat": 22.6838115,
+    "lng": 120.486942,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/pingtung-ziyou",
+    "geocoded": true,
+    "starbucks": [
+      {
+        "name": "Starbucks 星巴克（屏東自由門市）",
+        "address": "900屏東縣屏東市自由路601號",
+        "lat": 22.6831259,
+        "lng": 120.48376039999998,
+        "distance_m": 335.2,
+        "place_id": "ChIJyd5jt58XbjQRcakRgxvT1MM"
+      }
+    ],
+    "nearest_starbucks": "Starbucks 星巴克（屏東自由門市）",
+    "nearest_distance_m": 335.2
+  },
+  {
+    "slug": "taichung-chongde",
+    "name": "World Gym台中崇德店",
+    "address": "台中市北屯區崇德路二段16號",
+    "lat": 24.1688523,
+    "lng": 120.6855907,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-chongde",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "taichung-dajia",
+    "name": "World Gym台中大甲店",
+    "address": "台中市大甲區仁愛街25號",
+    "lat": 24.346962,
+    "lng": 120.618405,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-dajia",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "taichung-dali-zhongxing",
+    "name": "World Gym大里中興店",
+    "address": "台中市大里區中興路二段486號",
+    "lat": 24.1111083,
+    "lng": 120.6901462,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-dali-zhongxing",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "taichung-daya",
+    "name": "World Gym台中大雅店",
+    "address": "台中市大雅區民生路1段100號",
+    "lat": 24.2263831,
+    "lng": 120.6480768,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-daya",
+    "starbucks": [
+      {
+        "name": "星巴克 大雅門市",
+        "address": "428012臺中市大雅區中清路三段1205號",
+        "lat": 24.2250019,
+        "lng": 120.6453611,
+        "distance_m": 315.3,
+        "place_id": "ChIJ4WahqP0XaTQR8hXBPqYtf14"
+      }
+    ],
+    "nearest_starbucks": "星巴克 大雅門市",
+    "nearest_distance_m": 315.3
+  },
+  {
+    "slug": "taichung-dongshan",
+    "name": "World Gym台中東山店",
+    "address": "台中市北屯區東山路一段310號",
+    "lat": 24.1758384,
+    "lng": 120.7213539,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-dongshan",
+    "starbucks": [
+      {
+        "name": "星巴克 軍功東山門市",
+        "address": "406臺中市北屯區軍功路一段720號",
+        "lat": 24.174236,
+        "lng": 120.7191804,
+        "distance_m": 283.5,
+        "place_id": "ChIJa7piwhgYaTQR-cJiW-YQAwQ"
+      }
+    ],
+    "nearest_starbucks": "星巴克 軍功東山門市",
+    "nearest_distance_m": 283.5
+  },
+  {
+    "slug": "taichung-dongxing",
+    "name": "World Gym台中東興店",
+    "address": "台中市南區東興路一段81號",
+    "lat": 24.1204054,
+    "lng": 120.655457,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-dongxing",
+    "starbucks": [
+      {
+        "name": "星巴克 文心大慶門市",
+        "address": "402臺中市南區文心南路542號",
+        "lat": 24.120247900000003,
+        "lng": 120.65094049999999,
+        "distance_m": 458.7,
+        "place_id": "ChIJVfDg7E48aTQRyVms7swehD4"
+      }
+    ],
+    "nearest_starbucks": "星巴克 文心大慶門市",
+    "nearest_distance_m": 458.7
+  },
+  {
+    "slug": "taichung-e-chung",
+    "name": "World Gym台中一中店",
+    "address": "台中市北區三民路三段125號",
+    "lat": 24.1488082,
+    "lng": 120.6833244,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-e-chung",
+    "starbucks": [
+      {
+        "name": "星巴克中友門市",
+        "address": "40446臺中市北區三民路三段161號1樓C棟",
+        "lat": 24.151808100000004,
+        "lng": 120.6847387,
+        "distance_m": 363.1,
+        "place_id": "ChIJsRHvI2Y9aTQRb_xhSnV4-LE"
+      }
+    ],
+    "nearest_starbucks": "星巴克中友門市",
+    "nearest_distance_m": 363.1
+  },
+  {
+    "slug": "taichung-fengyuan",
+    "name": "World Gym台中豐原店",
+    "address": "台中市豐原區南陽路508號",
+    "lat": 24.2492949,
+    "lng": 120.720893,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-fengyuan",
+    "starbucks": [
+      {
+        "name": "STARBUCKS 星巴克 (豐原門市)",
+        "address": "420臺中市豐原區復興路2號",
+        "lat": 24.2509879,
+        "lng": 120.7206061,
+        "distance_m": 190.5,
+        "place_id": "ChIJRX0ugA8aaTQRrjhdZaBfJSM"
+      }
+    ],
+    "nearest_starbucks": "STARBUCKS 星巴克 (豐原門市)",
+    "nearest_distance_m": 190.5
+  },
+  {
+    "slug": "taichung-jinhua-north",
+    "name": "World Gym台中進化北店",
+    "address": "台中市北區進化北路365號",
+    "lat": 24.1629443,
+    "lng": 120.6793343,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-jinhua-north",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "taichung-liming",
+    "name": "World Gym台中黎明店",
+    "address": "台中市南屯區黎明路二段425號",
+    "lat": 24.1519712,
+    "lng": 120.6347957,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-liming",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "taichung-meicun",
+    "name": "World Gym台中美村店",
+    "address": "台中市西區美村路一段22號",
+    "lat": 24.1546647,
+    "lng": 120.6617329,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-meicun",
+    "starbucks": [
+      {
+        "name": "星巴克 中港門市",
+        "address": "403臺中市西區臺灣大道二段363號",
+        "lat": 24.154248,
+        "lng": 120.6643197,
+        "distance_m": 266.5,
+        "place_id": "ChIJhegloWoaaTQRq3PyJSR08NI"
+      },
+      {
+        "name": "統一星巴克 園道門市",
+        "address": "403臺中市西區公益路68號1樓",
+        "lat": 24.1512554,
+        "lng": 120.6635543,
+        "distance_m": 421.7,
+        "place_id": "ChIJ5cGZEp09aTQRl4WPvIDc_l0"
+      }
+    ],
+    "nearest_starbucks": "星巴克 中港門市",
+    "nearest_distance_m": 266.5
+  },
+  {
+    "slug": "taichung-qingshui",
+    "name": "World Gym台中清水店",
+    "address": "台中市清水區中山路129號",
+    "lat": 24.2650105,
+    "lng": 120.5735724,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-qingshui",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "taichung-shalu",
+    "name": "World Gym台中沙鹿店",
+    "address": "台中市沙鹿區英才路30號",
+    "lat": 24.2328014,
+    "lng": 120.5720899,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-shalu",
+    "starbucks": [
+      {
+        "name": "星巴克 沙鹿北勢門市",
+        "address": "373號, 台灣大道七段沙鹿區臺中市433",
+        "lat": 24.2306752,
+        "lng": 120.5733181,
+        "distance_m": 267.2,
+        "place_id": "ChIJHa0geaYVaTQRyTHx3Yp5wgA"
+      }
+    ],
+    "nearest_starbucks": "星巴克 沙鹿北勢門市",
+    "nearest_distance_m": 267.2
+  },
+  {
+    "slug": "taichung-taiping",
+    "name": "World Gym台中太平店",
+    "address": "台中市太平區立功路115號",
+    "lat": 24.1576965,
+    "lng": 120.7207805,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-taiping",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "taichung-tanzi",
+    "name": "World Gym台中潭子店",
+    "address": "台中市潭子區潭興路三段42號",
+    "lat": 24.2117572,
+    "lng": 120.7037473,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-tanzi",
+    "starbucks": [
+      {
+        "name": "星巴克 潭子門市",
+        "address": "427臺中市潭子區勝利路188號",
+        "lat": 24.2115597,
+        "lng": 120.70071919999998,
+        "distance_m": 307.9,
+        "place_id": "ChIJz-gNqHoXaTQRXSAiDsfGamI"
+      }
+    ],
+    "nearest_starbucks": "星巴克 潭子門市",
+    "nearest_distance_m": 307.9
+  },
+  {
+    "slug": "taichung-tunghai",
+    "name": "World Gym台中東海店",
+    "address": "台中市西屯區玉門路81號",
+    "lat": 24.1861231,
+    "lng": 120.6097476,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-tunghai",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "taichung-wenxin",
+    "name": "World Gym文心店",
+    "address": "台中市南屯區文心路1段521號",
+    "lat": 24.1542797,
+    "lng": 120.6459045,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-wenxin",
+    "starbucks": [
+      {
+        "name": "STARBUCKS 星巴克 摩登典藏吧台 (大英門市)",
+        "address": "408臺中市南屯區公益路二段131號",
+        "lat": 24.1506528,
+        "lng": 120.6486053,
+        "distance_m": 487.6,
+        "place_id": "ChIJlTQNEog9aTQRA8hPI2AmtqA"
+      }
+    ],
+    "nearest_starbucks": "STARBUCKS 星巴克 摩登典藏吧台 (大英門市)",
+    "nearest_distance_m": 487.6
+  },
+  {
+    "slug": "taichung-wuri",
+    "name": "World Gym台中烏日店",
+    "address": "台中市烏日區光日路52號",
+    "lat": 24.1033533,
+    "lng": 120.6245816,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-wuri",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "taichung-xitun",
+    "name": "World Gym台中西屯店",
+    "address": "台中市西屯區西屯路2段258號",
+    "lat": 24.1712964,
+    "lng": 120.6469649,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-xitun",
+    "starbucks": [
+      {
+        "name": "星巴克 河南青海門市",
+        "address": "407臺中市西屯區河南路二段431號",
+        "lat": 24.170478,
+        "lng": 120.64355009999998,
+        "distance_m": 358.2,
+        "place_id": "ChIJlTQNEog9aTQRKJJPQRzL0dI"
+      }
+    ],
+    "nearest_starbucks": "星巴克 河南青海門市",
+    "nearest_distance_m": 358.2
+  },
+  {
+    "slug": "taichung-xuefu",
+    "name": "World Gym台中學府店",
+    "address": "台中市南區學府路170號",
+    "lat": 24.129544,
+    "lng": 120.673965,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-xuefu",
+    "starbucks": [
+      {
+        "name": "STARBUCKS 星巴克 (國資圖門市)",
+        "address": "402臺中市南區五權南路100號",
+        "lat": 24.127507599999998,
+        "lng": 120.6699031,
+        "distance_m": 470.3,
+        "place_id": "ChIJM_9sTwE9aTQR88kG2VYf59Y"
+      }
+    ],
+    "nearest_starbucks": "STARBUCKS 星巴克 (國資圖門市)",
+    "nearest_distance_m": 470.3
+  },
+  {
+    "slug": "tainan-annan",
+    "name": "World Gym台南安南店",
+    "address": "台南市安南區北安路三段135號",
+    "lat": 23.0406953,
+    "lng": 120.2026408,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-annan",
+    "starbucks": [
+      {
+        "name": "星巴克(台南北安門市)",
+        "address": "709臺南市安南區北安路三段156號",
+        "lat": 23.0422504,
+        "lng": 120.20355640000001,
+        "distance_m": 196.7,
+        "place_id": "ChIJHWmDQ6B3bjQR56fEg5aJjEQ"
+      }
+    ],
+    "nearest_starbucks": "星巴克(台南北安門市)",
+    "nearest_distance_m": 196.7
+  },
+  {
+    "slug": "tainan-anping",
+    "name": "World Gym台南安平店",
+    "address": "台南市安平區慶平路57號",
+    "lat": 22.9968252,
+    "lng": 120.1824198,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-anping",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "tainan-changrong",
+    "name": "World Gym台南長榮店",
+    "address": "台南市東區長榮路一段181號",
+    "lat": 22.984187,
+    "lng": 120.217705,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-changrong",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "tainan-focus",
+    "name": "World Gym台南FOCUS店",
+    "address": "台南市中西區中山路166號",
+    "lat": 22.9956055,
+    "lng": 120.2102019,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-focus",
+    "starbucks": [
+      {
+        "name": "星巴克 台南門市",
+        "address": "700臺南市中西區中山路166號",
+        "lat": 22.995496799999998,
+        "lng": 120.21022740000001,
+        "distance_m": 12.4,
+        "place_id": "ChIJyeyC9It2bjQRJ3ooaDY30IU"
+      },
+      {
+        "name": "星巴克台南文創門市",
+        "address": "701臺南市東區北門路二段16號1b 室",
+        "lat": 22.9990201,
+        "lng": 120.2128927,
+        "distance_m": 469.1,
+        "place_id": "ChIJN0zpWJ13bjQRsYV0ebs8vWU"
+      }
+    ],
+    "nearest_starbucks": "星巴克 台南門市",
+    "nearest_distance_m": 12.4
+  },
+  {
+    "slug": "tainan-guobing",
+    "name": "World Gym台南國賓店",
+    "address": "台南市東區中華東路一段70號",
+    "lat": 22.9961552,
+    "lng": 120.234176,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-guobing",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "tainan-haian",
+    "name": "台南海安店",
+    "address": "台南市北區海安路三段731號",
+    "lat": 23.0121078,
+    "lng": 120.2002143,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-haian",
+    "starbucks": [
+      {
+        "name": "星巴克 海安和緯門市",
+        "address": "704臺南市北區海安路三段727號",
+        "lat": 23.0119151,
+        "lng": 120.2002778,
+        "distance_m": 22.4,
+        "place_id": "ChIJKyt51HF3bjQRxpkh1qHCv1o"
+      }
+    ],
+    "nearest_starbucks": "星巴克 海安和緯門市",
+    "nearest_distance_m": 22.4
+  },
+  {
+    "slug": "tainan-rende",
+    "name": "台南仁德店",
+    "address": "台南市仁德區中山路788號",
+    "lat": 22.9741981,
+    "lng": 120.2456186,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-rende",
+    "starbucks": [
+      {
+        "name": "星巴克 仁德家樂福門市",
+        "address": "717022臺南市仁德區中山路711號",
+        "lat": 22.972372300000004,
+        "lng": 120.2467654,
+        "distance_m": 234.5,
+        "place_id": "ChIJqQC273R3bjQR9nC5RbiFJr8"
+      }
+    ],
+    "nearest_starbucks": "星巴克 仁德家樂福門市",
+    "nearest_distance_m": 234.5
+  },
+  {
+    "slug": "tainan-shanhua",
+    "name": "World Gym台南善化店",
+    "address": "台南市善化區中正路332號",
+    "lat": 23.1268554,
+    "lng": 120.2941051,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-shanhua",
+    "starbucks": [
+      {
+        "name": "Starbucks星巴克台南善化門市",
+        "address": "741臺南市善化區大同路2號",
+        "lat": 23.1270055,
+        "lng": 120.293827,
+        "distance_m": 33.0,
+        "place_id": "ChIJSwru0IN7bjQRsblrVg33aNU"
+      }
+    ],
+    "nearest_starbucks": "Starbucks星巴克台南善化門市",
+    "nearest_distance_m": 33.0
+  },
+  {
+    "slug": "tainan-shulin",
+    "name": "World Gym台南樹林店",
+    "address": "台南市南區樹林街二段227號",
+    "lat": 22.9862396,
+    "lng": 120.196785,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-shulin",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "tainan-ximen",
+    "name": "World Gym台南西門店",
+    "address": "台南市北區西門路四段61號",
+    "lat": 23.0075524,
+    "lng": 120.2064681,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-ximen",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "tainan-xinying",
+    "name": "World Gym台南新營店",
+    "address": "台南市新營區中山路56之3號",
+    "lat": 23.3061073,
+    "lng": 120.3203552,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-xinying",
+    "starbucks": [
+      {
+        "name": "Starbucks星巴克新營門市",
+        "address": "730臺南市新營區中正路6-5號",
+        "lat": 23.3076454,
+        "lng": 120.31626750000001,
+        "distance_m": 451.1,
+        "place_id": "ChIJuRzuX9yFbjQRJGXxDLTmjPQ"
+      }
+    ],
+    "nearest_starbucks": "Starbucks星巴克新營門市",
+    "nearest_distance_m": 451.1
+  },
+  {
+    "slug": "tainan-yongkang",
+    "name": "World Gym台南永康店",
+    "address": "台南市永康區中華路725之1號",
+    "lat": 23.0172989,
+    "lng": 120.2277074,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-yongkang",
+    "geocoded": true,
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "tainan-yongkang-yongda",
+    "name": "World Gym台南永康永大店",
+    "address": "台南市永康區永大一路51號",
+    "lat": 23.0176682,
+    "lng": 120.2606173,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-yongkang-yongda",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "tainan-zhonghua-west",
+    "name": "World Gym台南中華西店",
+    "address": "台南市中西區中華西路二段650號",
+    "lat": 23.0057331,
+    "lng": 120.1867239,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-zhonghua-west",
+    "starbucks": [
+      {
+        "name": "星巴克(湖美門市)",
+        "address": "700臺南市中西區中華西路二段851巷28號",
+        "lat": 23.0058816,
+        "lng": 120.1851199,
+        "distance_m": 165.0,
+        "place_id": "ChIJzWdGv0F2bjQRtaj4d9WjyEA"
+      }
+    ],
+    "nearest_starbucks": "星巴克(湖美門市)",
+    "nearest_distance_m": 165.0
+  },
+  {
+    "slug": "taipei-101",
+    "name": "World Gym台北101店",
+    "address": "台北市信義區市府路45號",
+    "lat": 25.0337943,
+    "lng": 121.5649883,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-101",
+    "starbucks": [
+      {
+        "name": "星巴克 摩登典藏吧台 (101典藏門市)",
+        "address": "110臺北市信義區市府路45號",
+        "lat": 25.0335181,
+        "lng": 121.56423199999999,
+        "distance_m": 82.2,
+        "place_id": "ChIJUzoMxrarQjQR_T4HJVWbE-I"
+      },
+      {
+        "name": "Starbucks 星巴克 (微風南山門市)",
+        "address": "110臺北市信義區松智路17號1樓",
+        "lat": 25.0343073,
+        "lng": 121.5659555,
+        "distance_m": 112.9,
+        "place_id": "ChIJ1cPodmarQjQRUq0zbfM-BjE"
+      },
+      {
+        "name": "星巴克 信義經貿門市",
+        "address": "110臺北市信義區信義路五段106號",
+        "lat": 25.032555199999997,
+        "lng": 121.5670066,
+        "distance_m": 245.6,
+        "place_id": "ChIJQazyoSirQjQRZMdYYKJUigA"
+      },
+      {
+        "name": "星巴克 世貿一館門市",
+        "address": "110臺北市信義區信義路五段5號",
+        "lat": 25.03462,
+        "lng": 121.56210940000001,
+        "distance_m": 304.2,
+        "place_id": "ChIJ9y4447qrQjQR8M_LqYlWKHo"
+      },
+      {
+        "name": "Starbucks 星巴克 (信義南山門市)",
+        "address": "110臺北市信義區松仁路100號2F",
+        "lat": 25.0343163,
+        "lng": 121.5680845,
+        "distance_m": 317.3,
+        "place_id": "ChIJ-cMhaRWrQjQRrY_ScenP9Aw"
+      },
+      {
+        "name": "Starbucks星巴克 (新光門市)",
+        "address": "110臺北市信義區松壽路11號",
+        "lat": 25.0367103,
+        "lng": 121.56723689999998,
+        "distance_m": 395.5,
+        "place_id": "ChIJzQAOKCwjaTQRWTUHYNd1-KM"
+      }
+    ],
+    "nearest_starbucks": "星巴克 摩登典藏吧台 (101典藏門市)",
+    "nearest_distance_m": 82.2
+  },
+  {
+    "slug": "taipei-beitou-zhonghe",
+    "name": "World Gym台北北投中和店",
+    "address": "台北市北投區中和街366號",
+    "lat": 25.1418571,
+    "lng": 121.4992285,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-beitou-zhonghe",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "taipei-changchun",
+    "name": "World Gym台北長春店",
+    "address": "台北市中山區長春路90號",
+    "lat": 25.0547468,
+    "lng": 121.5270972,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-changchun",
+    "starbucks": [
+      {
+        "name": "Starbucks 星巴克 (林森門市)",
+        "address": "104臺北市中山區林森北路247號",
+        "lat": 25.053979899999998,
+        "lng": 121.5259009,
+        "distance_m": 147.6,
+        "place_id": "ChIJc6Lk1GepQjQRS8T9Sqnvra0"
+      }
+    ],
+    "nearest_starbucks": "Starbucks 星巴克 (林森門市)",
+    "nearest_distance_m": 147.6
+  },
+  {
+    "slug": "taipei-daan",
+    "name": "World Gym台北大安店",
+    "address": "台北市大安區信義路四段6號",
+    "lat": 25.0331714,
+    "lng": 121.544094,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-daan",
+    "starbucks": [
+      {
+        "name": "STARBUCKS 星巴克 (興南門市)",
+        "address": "106臺北市大安區復興南路一段323號",
+        "lat": 25.0336321,
+        "lng": 121.54378840000001,
+        "distance_m": 59.8,
+        "place_id": "ChIJ5QizddOrQjQRkBsS22h-CAg"
+      }
+    ],
+    "nearest_starbucks": "STARBUCKS 星巴克 (興南門市)",
+    "nearest_distance_m": 59.8
+  },
+  {
+    "slug": "taipei-dazhi",
+    "name": "World Gym台北大直店",
+    "address": "台北市中山區堤頂大道二段588號",
+    "lat": 25.0843794,
+    "lng": 121.55968,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-dazhi",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "taipei-dazhi-beian",
+    "name": "World Gym台北大直北安店",
+    "address": "台北市中山區北安路554巷19號",
+    "lat": 25.0801921,
+    "lng": 121.5489363,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-dazhi-beian",
+    "starbucks": [
+      {
+        "name": "Starbucks 星巴克實踐門市",
+        "address": "10491臺北市中山區大直街70號1樓",
+        "lat": 25.083568099999997,
+        "lng": 121.54621059999998,
+        "distance_m": 465.1,
+        "place_id": "ChIJhfj1IxusQjQRWTOuAq5eDZU"
+      }
+    ],
+    "nearest_starbucks": "Starbucks 星巴克實踐門市",
+    "nearest_distance_m": 465.1
+  },
+  {
+    "slug": "taipei-gongguan",
+    "name": "World Gym台北公館店",
+    "address": "台北市中正區羅斯福路四段68號",
+    "lat": 25.0145683,
+    "lng": 121.5342721,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-gongguan",
+    "starbucks": [
+      {
+        "name": "STARBUCKS 星巴克 (羅斯福門市)",
+        "address": "106臺北市大安區羅斯福路三段301號",
+        "lat": 25.0174952,
+        "lng": 121.53186790000001,
+        "distance_m": 405.7,
+        "place_id": "ChIJ4bT0-oupQjQRIzo8NiGCeAY"
+      },
+      {
+        "name": "星巴克 (公館水源門市)",
+        "address": "100臺北市中正區思源街16號",
+        "lat": 25.0138262,
+        "lng": 121.53031179999999,
+        "distance_m": 407.5,
+        "place_id": "ChIJlyAJn4ypQjQRSBKzn33ex3U"
+      }
+    ],
+    "nearest_starbucks": "STARBUCKS 星巴克 (羅斯福門市)",
+    "nearest_distance_m": 405.7
+  },
+  {
+    "slug": "taipei-guangfu",
+    "name": "World Gym台北光復店",
+    "address": "台北市大安區忠孝東路四段330號",
+    "lat": 25.0410878,
+    "lng": 121.5575167,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-guangfu",
+    "starbucks": [
+      {
+        "name": "星巴克 華視門市",
+        "address": "106臺北市大安區光復南路180巷14號",
+        "lat": 25.042452899999997,
+        "lng": 121.5567119,
+        "distance_m": 172.1,
+        "place_id": "ChIJ3Tv9FOerQjQRttsoFFBkLIg"
+      },
+      {
+        "name": "星巴克 忠孝延吉門市",
+        "address": "106臺北市大安區忠孝東路四段230號",
+        "lat": 25.0411882,
+        "lng": 121.55394220000001,
+        "distance_m": 360.3,
+        "place_id": "ChIJJztx2cWrQjQRTlWIcHoPop0"
+      }
+    ],
+    "nearest_starbucks": "星巴克 華視門市",
+    "nearest_distance_m": 172.1
+  },
+  {
+    "slug": "taipei-jingmei",
+    "name": "景美店",
+    "address": "台北市文山區景後街95號",
+    "lat": 24.991914,
+    "lng": 121.542926,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-jingmei",
+    "starbucks": [
+      {
+        "name": "星巴克 景美門市",
+        "address": "116臺北市文山區景興路185號1-2F",
+        "lat": 24.992590699999997,
+        "lng": 121.54437279999999,
+        "distance_m": 164.1,
+        "place_id": "ChIJ_3wx6waqQjQROQUsjLOxfJ4"
+      }
+    ],
+    "nearest_starbucks": "星巴克 景美門市",
+    "nearest_distance_m": 164.1
+  },
+  {
+    "slug": "taipei-lishui",
+    "name": "World Gym台北麗水店",
+    "address": "台北市大安區麗水街18號",
+    "lat": 25.0308146,
+    "lng": 121.5285851,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-lishui",
+    "starbucks": [
+      {
+        "name": "星巴克 永康街2F門市",
+        "address": "106臺北市大安區永康街2號2樓",
+        "lat": 25.0332989,
+        "lng": 121.52975199999999,
+        "distance_m": 300.2,
+        "place_id": "ChIJIcFPa4KpQjQR5SlT6EQMkiI"
+      }
+    ],
+    "nearest_starbucks": "星巴克 永康街2F門市",
+    "nearest_distance_m": 300.2
+  },
+  {
+    "slug": "taipei-minquan-east",
+    "name": "World Gym台北民權東店",
+    "address": "台北市中山區民權東路三段72號",
+    "lat": 25.0618723,
+    "lng": 121.5438284,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-minquan-east",
+    "starbucks": [
+      {
+        "name": "Starbucks 星巴克民權門市",
+        "address": "10491臺北市中山區民權東路三段88號1、2樓",
+        "lat": 25.0619794,
+        "lng": 121.54374609999999,
+        "distance_m": 14.5,
+        "place_id": "ChIJ3Tv9FOerQjQR61C5y3XHlq4"
+      }
+    ],
+    "nearest_starbucks": "Starbucks 星巴克民權門市",
+    "nearest_distance_m": 14.5
+  },
+  {
+    "slug": "taipei-minquan-west",
+    "name": "World Gym台北民權西店",
+    "address": "台北市大同區民權西路136號",
+    "lat": 25.062745,
+    "lng": 121.5161631,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-minquan-west",
+    "starbucks": [
+      {
+        "name": "星巴克（民權西門市）",
+        "address": "104026臺北市中山區民權西路62號1-3樓",
+        "lat": 25.062587399999998,
+        "lng": 121.52014140000001,
+        "distance_m": 401.1,
+        "place_id": "ChIJpeaxbnipQjQRtSAnKtsusDM"
+      },
+      {
+        "name": "星巴克典藏 保安門市 Starbucks Reserve",
+        "address": "103臺北市大同區保安街11號",
+        "lat": 25.05933,
+        "lng": 121.5132217,
+        "distance_m": 481.6,
+        "place_id": "ChIJqzvbWxWpQjQReh5uDRouO8k"
+      }
+    ],
+    "nearest_starbucks": "星巴克（民權西門市）",
+    "nearest_distance_m": 401.1
+  },
+  {
+    "slug": "taipei-minsheng",
+    "name": "World Gym台北民生店",
+    "address": "台北市松山區民生東路三段156號",
+    "lat": 25.0573596,
+    "lng": 121.5477531,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-minsheng",
+    "starbucks": [
+      {
+        "name": "統一星巴克 宏泰門市",
+        "address": "105臺北市松山區民生東路三段156-1號",
+        "lat": 25.0573132,
+        "lng": 121.54763390000001,
+        "distance_m": 13.1,
+        "place_id": "ChIJ3Tv9FOerQjQR8dtWPnA4x-I"
+      },
+      {
+        "name": "星巴克 敦化門市",
+        "address": "105台北市松山區敦化北路147號",
+        "lat": 25.0538791,
+        "lng": 121.54936500000001,
+        "distance_m": 419.7,
+        "place_id": "ChIJO-lAiuirQjQRWbc1xgWv0kg"
+      }
+    ],
+    "nearest_starbucks": "統一星巴克 宏泰門市",
+    "nearest_distance_m": 13.1
+  },
+  {
+    "slug": "taipei-minsheng-yuanhuan",
+    "name": "World Gym台北民生圓環店",
+    "address": "台北市松山區民生東路5段196號",
+    "lat": 25.0587146,
+    "lng": 121.5647253,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-minsheng-yuanhuan",
+    "starbucks": [
+      {
+        "name": "星巴克民生三民門市",
+        "address": "105臺北市松山區民生東路五段",
+        "lat": 25.058523599999997,
+        "lng": 121.56237820000001,
+        "distance_m": 237.4,
+        "place_id": "ChIJ6_SIgI2rQjQRnk9TDTyjFGA"
+      }
+    ],
+    "nearest_starbucks": "星巴克民生三民門市",
+    "nearest_distance_m": 237.4
+  },
+  {
+    "slug": "taipei-muzha",
+    "name": "World Gym台北木柵店",
+    "address": "台北市文山區木柵路3段96號",
+    "lat": 24.9885015,
+    "lng": 121.5672288,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-muzha",
+    "starbucks": [
+      {
+        "name": "星巴克 木柵門市",
+        "address": "116臺北市文山區木柵路三段75號",
+        "lat": 24.988721599999998,
+        "lng": 121.56691400000001,
+        "distance_m": 40.1,
+        "place_id": "ChIJj1TBSnGqQjQRhUW8goVK6_0"
+      }
+    ],
+    "nearest_starbucks": "星巴克 木柵門市",
+    "nearest_distance_m": 40.1
+  },
+  {
+    "slug": "taipei-nanjing",
+    "name": "World Gym台北南京店",
+    "address": "台北市松山區南京東路五段196號",
+    "lat": 25.051218,
+    "lng": 121.5642089,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-nanjing",
+    "starbucks": [
+      {
+        "name": "Starbucks星巴克南京三民門市",
+        "address": "105臺北市松山區南京東路五段171號",
+        "lat": 25.051652999999998,
+        "lng": 121.56368009999998,
+        "distance_m": 72.0,
+        "place_id": "ChIJlSurRpSrQjQRlDAxFcv7a-A"
+      },
+      {
+        "name": "Starbucks星巴克 (東興門市)",
+        "address": "110臺北市信義區東興路37號",
+        "lat": 25.047892899999997,
+        "lng": 121.56629129999997,
+        "distance_m": 425.1,
+        "place_id": "ChIJN4Jy84yrQjQR5CM9MNH4Zc8"
+      }
+    ],
+    "nearest_starbucks": "Starbucks星巴克南京三民門市",
+    "nearest_distance_m": 72.0
+  },
+  {
+    "slug": "taipei-neihu",
+    "name": "World Gym台北內湖店",
+    "address": "台北市內湖區康寧路三段72號",
+    "lat": 25.0699943,
+    "lng": 121.6114389,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-neihu",
+    "starbucks": [
+      {
+        "name": "星巴克 康寧門市",
+        "address": "114臺北市內湖區康寧路三段72號",
+        "lat": 25.0699526,
+        "lng": 121.6114144,
+        "distance_m": 5.3,
+        "place_id": "ChIJJbpVAr2sQjQROz_aLExJE94"
+      }
+    ],
+    "nearest_starbucks": "星巴克 康寧門市",
+    "nearest_distance_m": 5.3
+  },
+  {
+    "slug": "taipei-neihu-fuhwa",
+    "name": "World Gym台北內湖福華店",
+    "address": "台北市內湖區民權東路六段180巷6號",
+    "lat": 25.0681913,
+    "lng": 121.5919098,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-neihu-fuhwa",
+    "starbucks": [
+      {
+        "name": "星巴克 內湖民權門市",
+        "address": "114臺北市內湖區民權東路六段182號",
+        "lat": 25.0685863,
+        "lng": 121.59292349999998,
+        "distance_m": 111.1,
+        "place_id": "ChIJeyEGuYWsQjQRLw9Qot6KBD4"
+      },
+      {
+        "name": "星巴克 新內湖三總門市",
+        "address": "114臺北市內湖區成功路二段325號b1、No",
+        "lat": 25.0721472,
+        "lng": 121.59335209999999,
+        "distance_m": 463.2,
+        "place_id": "ChIJa9HNMQCtQjQRn_uqSqejsJg"
+      }
+    ],
+    "nearest_starbucks": "星巴克 內湖民權門市",
+    "nearest_distance_m": 111.1
+  },
+  {
+    "slug": "taipei-neihu-gangqia",
+    "name": "World Gym台北內湖港墘店",
+    "address": "台北市內湖區港墘路221巷33號",
+    "lat": 25.0758038,
+    "lng": 121.574965,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-neihu-gangqia",
+    "starbucks": [
+      {
+        "name": "STARBUCKS 星巴克 (港墘門市)",
+        "address": "114臺北市內湖區瑞光路216號",
+        "lat": 25.075345,
+        "lng": 121.57608379999999,
+        "distance_m": 123.7,
+        "place_id": "ChIJea4FQnusQjQR-pmOf94YOUY"
+      },
+      {
+        "name": "STARBUCKS 星巴克 (內湖陽光門市)",
+        "address": "114臺北市內湖區陽光街290號",
+        "lat": 25.0730319,
+        "lng": 121.57581640000001,
+        "distance_m": 319.9,
+        "place_id": "ChIJvQtYlXusQjQRrkdviPp8AO8"
+      },
+      {
+        "name": "Starbucks 星巴克 (洲子門市)",
+        "address": "114臺北市內湖區洲子街48號",
+        "lat": 25.0790278,
+        "lng": 121.5732998,
+        "distance_m": 395.8,
+        "place_id": "ChIJhXT-EGWsQjQRSPt94VOErCI"
+      }
+    ],
+    "nearest_starbucks": "STARBUCKS 星巴克 (港墘門市)",
+    "nearest_distance_m": 123.7
+  },
+  {
+    "slug": "taipei-ningxia",
+    "name": "World Gym台北寧夏店",
+    "address": "台北市大同區寧夏路11號",
+    "lat": 25.0541531,
+    "lng": 121.514088,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-ningxia",
+    "starbucks": [
+      {
+        "name": "STARBUCKS 星巴克 (台北圓環門市)",
+        "address": "103臺北市大同區南京西路288號",
+        "lat": 25.053926999999998,
+        "lng": 121.513958,
+        "distance_m": 28.3,
+        "place_id": "ChIJ3y9aVBOpQjQR4mS4Flc5ilc"
+      }
+    ],
+    "nearest_starbucks": "STARBUCKS 星巴克 (台北圓環門市)",
+    "nearest_distance_m": 28.3
+  },
+  {
+    "slug": "taipei-songlong",
+    "name": "World Gym台北松隆店",
+    "address": "台北市信義區松隆路125號",
+    "lat": 25.0469113,
+    "lng": 121.571769,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-songlong",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "taipei-songren",
+    "name": "World Gym台北松仁店",
+    "address": "台北市信義區松仁路277號",
+    "lat": 25.024194,
+    "lng": 121.5698194,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-songren",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "taipei-station",
+    "name": "World Gym台北站前店",
+    "address": "台北市中正區忠孝西路一段50號",
+    "lat": 25.0462219,
+    "lng": 121.51583,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-station",
+    "starbucks": [
+      {
+        "name": "星巴克 館前漢口門市",
+        "address": "100臺北市中正區館前路26號",
+        "lat": 25.0449049,
+        "lng": 121.51490449999999,
+        "distance_m": 173.6,
+        "place_id": "ChIJ35bzN3OpQjQRYpIfB5xYYP0"
+      },
+      {
+        "name": "星巴克 懷寧門市",
+        "address": "100臺北市中正區懷寧街10號",
+        "lat": 25.046076199999998,
+        "lng": 121.5141035,
+        "distance_m": 174.7,
+        "place_id": "ChIJh4ZQtQypQjQRBJLz6aF42EA"
+      },
+      {
+        "name": "STARBUCKS 星巴克 (台鐵一門市)",
+        "address": "100臺北市中正區北平西路3號2樓",
+        "lat": 25.047577099999998,
+        "lng": 121.51709650000001,
+        "distance_m": 197.4,
+        "place_id": "ChIJOYUzfnKpQjQR5Xpm_wV9JFI"
+      },
+      {
+        "name": "星巴克 (台北捷運門市)",
+        "address": "100臺北市中正區忠孝西路一段49號B1F",
+        "lat": 25.0460466,
+        "lng": 121.51791929999999,
+        "distance_m": 211.4,
+        "place_id": "ChIJrRnsfXypQjQR5RegFqscptY"
+      },
+      {
+        "name": "Starbucks 星巴克 (京站門市)",
+        "address": "103臺北市大同區承德路一段1號",
+        "lat": 25.049432499999998,
+        "lng": 121.5179209,
+        "distance_m": 414.5,
+        "place_id": "ChIJG36LdG2pQjQRHnfW49bHAEg"
+      }
+    ],
+    "nearest_starbucks": "星巴克 館前漢口門市",
+    "nearest_distance_m": 173.6
+  },
+  {
+    "slug": "taipei-taipei-sanxia",
+    "name": "新北三峽店",
+    "address": "237台灣新北市三峽區",
+    "lat": 24.9358605,
+    "lng": 121.3744903,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-taipei-sanxia",
+    "geocoded": true,
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "taipei-tienmu",
+    "name": "World Gym台北天母店",
+    "address": "台北市士林區中山北路七段34號",
+    "lat": 25.119925,
+    "lng": 121.531146,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-tienmu",
+    "starbucks": [
+      {
+        "name": "Starbucks 星巴克 (天玉門市)",
+        "address": "111臺北市士林區天玉街38巷18弄1號",
+        "lat": 25.119632799999998,
+        "lng": 121.52974970000001,
+        "distance_m": 144.3,
+        "place_id": "ChIJPQYQi32uQjQRl8uJ6Q7h44M"
+      },
+      {
+        "name": "Starbucks 星巴克 (天母三越門市)",
+        "address": "111019臺北市士林區忠誠路二段200號1F",
+        "lat": 25.117153599999998,
+        "lng": 121.5339958,
+        "distance_m": 421.1,
+        "place_id": "ChIJ3TMk8tmvQjQRW3zI2-_tyYk"
+      }
+    ],
+    "nearest_starbucks": "Starbucks 星巴克 (天玉門市)",
+    "nearest_distance_m": 144.3
+  },
+  {
+    "slug": "taipei-tienmu-dexing",
+    "name": "World Gym台北天母德行店",
+    "address": "台北市士林區德行東路331巷35號",
+    "lat": 25.1117645,
+    "lng": 121.5376825,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-tienmu-dexing",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "taipei-tonghua",
+    "name": "World Gym台北通化店",
+    "address": "台北市大安區通化里臨江街87號",
+    "lat": 25.0301057,
+    "lng": 121.554322,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-tonghua",
+    "starbucks": [
+      {
+        "name": "STARBUCKS 星巴克 通化門市",
+        "address": "106臺北市大安區文昌街209號",
+        "lat": 25.032499599999998,
+        "lng": 121.55445700000001,
+        "distance_m": 266.5,
+        "place_id": "ChIJ1YzfMc3WDRQRrjAhgGbVNFQ"
+      }
+    ],
+    "nearest_starbucks": "STARBUCKS 星巴克 通化門市",
+    "nearest_distance_m": 266.5
+  },
+  {
+    "slug": "taipei-tonling",
+    "name": "台北統領店",
+    "address": "台北市大安區忠孝東路四段201號",
+    "lat": 25.041721,
+    "lng": 121.551463,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-tonling",
+    "starbucks": [
+      {
+        "name": "星巴克 忠孝延吉門市",
+        "address": "106臺北市大安區忠孝東路四段230號",
+        "lat": 25.0411882,
+        "lng": 121.55394220000001,
+        "distance_m": 256.7,
+        "place_id": "ChIJJztx2cWrQjQRTlWIcHoPop0"
+      },
+      {
+        "name": "星巴克 龍門門市",
+        "address": "106臺北市大安區忠孝東路四段134號",
+        "lat": 25.0413751,
+        "lng": 121.54828979999998,
+        "distance_m": 322.0,
+        "place_id": "ChIJ_YvA9-WrQjQR8rHCrpoKgh8"
+      }
+    ],
+    "nearest_starbucks": "星巴克 忠孝延吉門市",
+    "nearest_distance_m": 256.7
+  },
+  {
+    "slug": "taipei-ximen",
+    "name": "World Gym台北西門店",
+    "address": "台北市萬華區西寧南路36號",
+    "lat": 25.0452425,
+    "lng": 121.5064943,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-ximen",
+    "starbucks": [
+      {
+        "name": "星巴克 西門昆明門市",
+        "address": "108臺北市萬華區武昌街二段77號",
+        "lat": 25.0452461,
+        "lng": 121.50568380000001,
+        "distance_m": 81.7,
+        "place_id": "ChIJX10H1gipQjQRRhPKc0ITsiY"
+      },
+      {
+        "name": "星巴克 (漢中門市)",
+        "address": "108臺北市萬華區漢中街51號",
+        "lat": 25.044044799999998,
+        "lng": 121.5074866,
+        "distance_m": 166.5,
+        "place_id": "ChIJrWPskAepQjQR_7VXOp2F4mU"
+      },
+      {
+        "name": "星巴克 西門成都門市",
+        "address": "108臺北市萬華區成都路87號",
+        "lat": 25.0431642,
+        "lng": 121.5047631,
+        "distance_m": 289.5,
+        "place_id": "ChIJzxoI9wipQjQRwyKiZEjUMgQ"
+      }
+    ],
+    "nearest_starbucks": "星巴克 西門昆明門市",
+    "nearest_distance_m": 81.7
+  },
+  {
+    "slug": "taoyuan-dayou",
+    "name": "World Gym桃園大有店",
+    "address": "桃園市桃園區大有路630號",
+    "lat": 25.0155001,
+    "lng": 121.3171491,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taoyuan-dayou",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "taoyuan-dayuan",
+    "name": "World Gym桃園大園店",
+    "address": "桃園市大園區中山南路268號",
+    "lat": 25.0597969,
+    "lng": 121.1997556,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taoyuan-dayuan",
+    "starbucks": [
+      {
+        "name": "星巴克 大園門市",
+        "address": "337桃園市大園區中正東路232號",
+        "lat": 25.0614501,
+        "lng": 121.2035768,
+        "distance_m": 426.5,
+        "place_id": "ChIJs0cyFJsgaDQR2sz5jDAvMJE"
+      }
+    ],
+    "nearest_starbucks": "星巴克 大園門市",
+    "nearest_distance_m": 426.5
+  },
+  {
+    "slug": "taoyuan-fuxing",
+    "name": "World Gym桃園復興店",
+    "address": "桃園市桃園區復興路186號",
+    "lat": 24.9903136,
+    "lng": 121.311398,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taoyuan-fuxing",
+    "starbucks": [
+      {
+        "name": "星巴克 桃園遠百門市",
+        "address": "b1, No. 20號中正路桃園區桃園市330",
+        "lat": 24.9897253,
+        "lng": 121.3137634,
+        "distance_m": 247.2,
+        "place_id": "ChIJRaJ8rPweaDQRaCXfXJhCQiw"
+      },
+      {
+        "name": "星巴克（桃園臺鐵門市）",
+        "address": "330桃園市桃園區中正路1號2樓",
+        "lat": 24.9888878,
+        "lng": 121.31436810000001,
+        "distance_m": 338.7,
+        "place_id": "ChIJ7bkbqeQeaDQRxPrchUjR1Uo"
+      },
+      {
+        "name": "星巴克 桃園成功門市",
+        "address": "330桃園市桃園區成功路一段2-1號",
+        "lat": 24.993091999999997,
+        "lng": 121.3131688,
+        "distance_m": 356.8,
+        "place_id": "ChIJb7SVbvweaDQRkQG4Tm2zD_8"
+      }
+    ],
+    "nearest_starbucks": "星巴克 桃園遠百門市",
+    "nearest_distance_m": 247.2
+  },
+  {
+    "slug": "taoyuan-guoqiang",
+    "name": "World Gym桃園國強店",
+    "address": "桃園市桃園區國強一街136號",
+    "lat": 24.9932331,
+    "lng": 121.2864524,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taoyuan-guoqiang",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "taoyuan-nankan",
+    "name": "World Gym桃園南崁店",
+    "address": "桃園市蘆竹區南崁路265號",
+    "lat": 25.0494816,
+    "lng": 121.2926285,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taoyuan-nankan",
+    "starbucks": [
+      {
+        "name": "星巴克 南崁門市",
+        "address": "338桃園市蘆竹區南山路一段2-5號",
+        "lat": 25.049444400000002,
+        "lng": 121.29194439999998,
+        "distance_m": 69.0,
+        "place_id": "ChIJG_tRfHagQjQRkLX9J4YNx5w"
+      }
+    ],
+    "nearest_starbucks": "星巴克 南崁門市",
+    "nearest_distance_m": 69.0
+  },
+  {
+    "slug": "taoyuan-neili",
+    "name": "World Gym桃園內壢店",
+    "address": "桃園市中壢區中華路一段667號",
+    "lat": 24.9690493,
+    "lng": 121.2503736,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taoyuan-neili",
+    "starbucks": [
+      {
+        "name": "星巴克 內壢中華門市",
+        "address": "320桃園市中壢區中華路一段669號",
+        "lat": 24.968856499999998,
+        "lng": 121.25022879999999,
+        "distance_m": 25.9,
+        "place_id": "ChIJM91wWnsjaDQRo886_S_F2X0"
+      },
+      {
+        "name": "星巴克 內壢門市",
+        "address": "320桃園市中壢區中華路一段450號",
+        "lat": 24.972379699999998,
+        "lng": 121.25332219999999,
+        "distance_m": 474.8,
+        "place_id": "ChIJQ-UfefghaDQR7R3QDZdOCUU"
+      }
+    ],
+    "nearest_starbucks": "星巴克 內壢中華門市",
+    "nearest_distance_m": 25.9
+  },
+  {
+    "slug": "taoyuan-pingzhen",
+    "name": "World Gym桃園平鎮店",
+    "address": "桃園市平鎮區環南路二段265號",
+    "lat": 24.9405341,
+    "lng": 121.2152523,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taoyuan-pingzhen",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "taoyuan-taimall",
+    "name": "World Gym桃園台茂店",
+    "address": "桃園市蘆竹區南崁路一段112號",
+    "lat": 25.0535928,
+    "lng": 121.2885639,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taoyuan-taimall",
+    "starbucks": [
+      {
+        "name": "星巴克 南崁台茂門市",
+        "address": "338桃園市蘆竹區南崁路一段112號1F",
+        "lat": 25.052991499999997,
+        "lng": 121.28791249999999,
+        "distance_m": 93.7,
+        "place_id": "ChIJReiujXSgQjQR2YL8qKcDngQ"
+      }
+    ],
+    "nearest_starbucks": "星巴克 南崁台茂門市",
+    "nearest_distance_m": 93.7
+  },
+  {
+    "slug": "taoyuan-yangmei",
+    "name": "World Gym桃園楊梅店",
+    "address": "桃園市楊梅區新農街205號",
+    "lat": 24.9098827,
+    "lng": 121.1457454,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taoyuan-yangmei",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "taoyuan-zhongli-zhongshan",
+    "name": "World Gym中壢中山店",
+    "address": "桃園市中壢區中山路136號",
+    "lat": 24.9559414,
+    "lng": 121.2250089,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taoyuan-zhongli-zhongshan",
+    "starbucks": [
+      {
+        "name": "星巴克 復興門市",
+        "address": "320桃園市中壢區中山路138號",
+        "lat": 24.9559727,
+        "lng": 121.22480009999998,
+        "distance_m": 21.3,
+        "place_id": "ChIJ7xVfyEkiaDQRC2xnmB4ZzaM"
+      }
+    ],
+    "nearest_starbucks": "星巴克 復興門市",
+    "nearest_distance_m": 21.3
+  },
+  {
+    "slug": "taoyuan-zhongli-zhongyuan",
+    "name": "World Gym中壢中原店",
+    "address": "桃園市中壢區中華路二段501號",
+    "lat": 24.9624549,
+    "lng": 121.2322687,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taoyuan-zhongli-zhongyuan",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "yilan-luodong",
+    "name": "World Gym宜蘭羅東店",
+    "address": "宜蘭縣羅東鎮興東路85號",
+    "lat": 24.6783311,
+    "lng": 121.7684031,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/yilan-luodong",
+    "starbucks": [
+      {
+        "name": "星巴克 （羅東門市）",
+        "address": "265宜蘭縣羅東鎮興東路97號",
+        "lat": 24.6787892,
+        "lng": 121.76860359999999,
+        "distance_m": 54.8,
+        "place_id": "ChIJ51KdAn_mZzQRE2OOkkNLw_g"
+      }
+    ],
+    "nearest_starbucks": "星巴克 （羅東門市）",
+    "nearest_distance_m": 54.8
+  },
+  {
+    "slug": "yilan-youai",
+    "name": "World Gym宜蘭友愛店",
+    "address": "宜蘭縣宜蘭市舊城東路50號",
+    "lat": 24.757793,
+    "lng": 121.756604,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/yilan-youai",
+    "starbucks": [
+      {
+        "name": "星巴克 Starbucks 宜蘭門市",
+        "address": "260宜蘭縣宜蘭市舊城東路56號",
+        "lat": 24.758021799999998,
+        "lng": 121.7567591,
+        "distance_m": 29.9,
+        "place_id": "ChIJibjUfdrkZzQRuE51yo-KjHs"
+      }
+    ],
+    "nearest_starbucks": "星巴克 Starbucks 宜蘭門市",
+    "nearest_distance_m": 29.9
+  },
+  {
+    "slug": "yunlin-douliu",
+    "name": "World Gym雲林斗六店",
+    "address": "",
+    "lat": 23.7115784,
+    "lng": 120.5390699,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/yunlin-douliu",
+    "starbucks": [],
+    "nearest_starbucks": null,
+    "nearest_distance_m": null
+  },
+  {
+    "slug": "yunlin-huwei",
+    "name": "World Gym雲林虎尾店",
+    "address": "",
+    "lat": 23.7054625,
+    "lng": 120.4311446,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/yunlin-huwei",
+    "starbucks": [
+      {
+        "name": "STARBUCKS 星巴克 (虎尾門市)",
+        "address": "632雲林縣虎尾鎮林森路一段491號",
+        "lat": 23.709130299999998,
+        "lng": 120.4337635,
+        "distance_m": 487.3,
+        "place_id": "ChIJ4fVpvqywbjQRFLdxh1_LTi4"
+      }
+    ],
+    "nearest_starbucks": "STARBUCKS 星巴克 (虎尾門市)",
+    "nearest_distance_m": 487.3
+  }
+]

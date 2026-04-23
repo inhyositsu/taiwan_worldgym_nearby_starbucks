@@ -1,0 +1,1176 @@
+[
+  {
+    "slug": "botc",
+    "name": "",
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/botc",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "caotun",
+    "name": "World Gym南投草屯店",
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/caotun"
+  },
+  {
+    "slug": "changhua-heping",
+    "name": "World Gym彰化和平店",
+    "address": "彰化縣彰化市和平路57號",
+    "lat": 24.0802532,
+    "lng": 120.5401184,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/changhua-heping"
+  },
+  {
+    "slug": "changhua-lukang",
+    "name": "World Gym彰化鹿港店",
+    "address": "彰化縣鹿港鎮民族路196號",
+    "lat": 24.0542048,
+    "lng": 120.4340841,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/changhua-lukang"
+  },
+  {
+    "slug": "changhua-xihu",
+    "name": "彰化溪湖店",
+    "address": "彰化縣溪湖鎮西環路398號",
+    "lat": 23.9608264,
+    "lng": 120.4773582,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/changhua-xihu"
+  },
+  {
+    "slug": "changhua-yuanlin",
+    "name": "World Gym彰化員林店",
+    "address": "彰化縣員林市員東路二段490號",
+    "lat": 23.9576915,
+    "lng": 120.5773182,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/changhua-yuanlin"
+  },
+  {
+    "slug": "chiayi-minzu",
+    "name": "World Gym嘉義民族店",
+    "address": "嘉義市西區民族路608號",
+    "lat": 23.4757516,
+    "lng": 120.4456385,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/chiayi-minzu"
+  },
+  {
+    "slug": "chiayi-xingye",
+    "name": "全國據點 | World Gym全國健身房據點搜尋 | World Gym世界健身俱樂部",
+    "address": "嘉義市西區興業西路526號",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/chiayi-xingye"
+  },
+  {
+    "slug": "chiayi-xingye-west",
+    "name": "",
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/chiayi-xingye-west"
+  },
+  {
+    "slug": "fitzone-taichung-gongyi",
+    "name": "",
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/fitzone-taichung-gongyi",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "fitzone-taipei-gongguan",
+    "name": "",
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/fitzone-taipei-gongguan",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "fitzone-taipei-tienmu",
+    "name": "",
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/fitzone-taipei-tienmu",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "hsinchu-guangfu",
+    "name": "新竹光復店",
+    "address": "新竹市東區光復路二段151號",
+    "lat": 24.7980508,
+    "lng": 120.9944424,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/hsinchu-guangfu"
+  },
+  {
+    "slug": "hsinchu-xiangshan",
+    "name": "新竹香山店",
+    "address": "新竹市香山區牛埔里牛埔東路247號2樓",
+    "lat": 24.7977369,
+    "lng": 120.9563084,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/hsinchu-xiangshan"
+  },
+  {
+    "slug": "hsinchu-xinfeng",
+    "name": "新竹新豐店",
+    "address": "新竹縣新豐鄉明新街137號",
+    "lat": 24.8721006,
+    "lng": 120.9949492,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/hsinchu-xinfeng"
+  },
+  {
+    "slug": "hsinchu-zhonghua",
+    "name": "World Gym新竹國賓店",
+    "address": "新竹市東區中華路二段190號",
+    "lat": 24.8049653,
+    "lng": 120.9658856,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/hsinchu-zhonghua"
+  },
+  {
+    "slug": "hsinchu-zhongzheng",
+    "name": "World Gym新竹中正店",
+    "address": "新竹市東區中正路110號",
+    "lat": 24.8058555,
+    "lng": 120.9693637,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/hsinchu-zhongzheng"
+  },
+  {
+    "slug": "hsinchu-zhubei",
+    "name": "World Gym新竹竹北店",
+    "address": "新竹縣竹北市光明六路東一段189號",
+    "lat": 24.8213445,
+    "lng": 121.0247218,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/hsinchu-zhubei"
+  },
+  {
+    "slug": "hsinchu-zhubei-huaxing",
+    "name": "全國據點 | World Gym全國健身房據點搜尋 | World Gym世界健身俱樂部",
+    "address": "新竹縣竹北市中央路169號",
+    "lat": 24.8332102,
+    "lng": 121.0142843,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/hsinchu-zhubei-huaxing"
+  },
+  {
+    "slug": "hsinchu-zhulian",
+    "name": "World Gym新竹竹蓮店",
+    "address": "新竹市東區竹蓮街15號",
+    "lat": 24.7967038,
+    "lng": 120.9719844,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/hsinchu-zhulian"
+  },
+  {
+    "slug": "hualian-guolian",
+    "name": "World Gym花蓮國聯店",
+    "address": "",
+    "lat": 23.9903831,
+    "lng": 121.6058218,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/hualian-guolian"
+  },
+  {
+    "slug": "hualien-jian",
+    "name": "World Gym花蓮吉安店",
+    "address": "",
+    "lat": 23.9735631,
+    "lng": 121.5791197,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/hualien-jian"
+  },
+  {
+    "slug": "jk",
+    "name": "",
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/jk",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "kaohsiung-baocheng",
+    "name": "World Gym高雄寶成店",
+    "address": "高雄市前鎮區民權二路8號",
+    "lat": 22.6053635,
+    "lng": 120.3098148,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-baocheng"
+  },
+  {
+    "slug": "kaohsiung-boai",
+    "name": "World Gym高雄博愛店",
+    "address": "高雄市左營區博愛二路320號",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-boai"
+  },
+  {
+    "slug": "kaohsiung-datong-heping",
+    "name": "World Gym高雄大統和平店",
+    "address": "高雄市苓雅區和平一路218號",
+    "lat": 22.6308988,
+    "lng": 120.3178748,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-datong-heping"
+  },
+  {
+    "slug": "kaohsiung-fengshan-wenheng",
+    "name": "World Gym高雄文衡店",
+    "address": "高雄市鳳山區文衡路506號",
+    "lat": 22.6412228,
+    "lng": 120.3495456,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-fengshan-wenheng"
+  },
+  {
+    "slug": "kaohsiung-fengshan-wujia",
+    "name": "World Gym鳳山五甲店",
+    "address": "高雄市鳳山區五甲三路166、168號",
+    "lat": 22.5910526,
+    "lng": 120.3248506,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-fengshan-wujia"
+  },
+  {
+    "slug": "kaohsiung-fengshan-zhongshan",
+    "name": "World Gym高雄鳳山店",
+    "address": "高雄市鳳山區中山路149號",
+    "lat": 22.622589,
+    "lng": 120.3581239,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-fengshan-zhongshan"
+  },
+  {
+    "slug": "kaohsiung-gangshan",
+    "name": "World Gym高雄岡山店",
+    "address": "高雄市岡山區民有路68號",
+    "lat": 22.7921402,
+    "lng": 120.2963979,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-gangshan"
+  },
+  {
+    "slug": "kaohsiung-nanzi",
+    "name": "World Gym高雄楠梓店",
+    "address": "高雄市楠梓區德民路951號",
+    "lat": 22.7205408,
+    "lng": 120.288905,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-nanzi"
+  },
+  {
+    "slug": "kaohsiung-nanzi-xingnan",
+    "name": "興楠店",
+    "address": "高雄市楠梓區楠盛街88號",
+    "lat": 22.7298662,
+    "lng": 120.3315816,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-nanzi-xingnan"
+  },
+  {
+    "slug": "kaohsiung-sogo",
+    "name": "World Gym高雄SOGO店",
+    "address": "高雄市前鎮區三多三路217號",
+    "lat": 22.614256,
+    "lng": 120.3061989,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-sogo"
+  },
+  {
+    "slug": "kaohsiung-yangming",
+    "name": "World Gym高雄陽明店",
+    "address": "高雄市三民區陽明路201號",
+    "lat": 22.6411884,
+    "lng": 120.3415101,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-yangming"
+  },
+  {
+    "slug": "kaohsiung-zhonghua",
+    "name": "World Gym高雄中華店",
+    "address": "高雄市前金區中華三路149號",
+    "lat": 22.630512,
+    "lng": 120.2952932,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-zhonghua"
+  },
+  {
+    "slug": "kaohsiung-zuoying",
+    "name": "World Gym高雄左營店",
+    "address": "高雄市左營區重立路428巷1號",
+    "lat": 22.678539,
+    "lng": 120.312529,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/kaohsiung-zuoying"
+  },
+  {
+    "slug": "keelung-xinyi",
+    "name": "World Gym基隆信義店",
+    "address": "基隆市信義區信一路92號",
+    "lat": 25.128565,
+    "lng": 121.7511037,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/keelung-xinyi"
+  },
+  {
+    "slug": "miaoli-toufen",
+    "name": "World Gym苗栗頭份店",
+    "address": "苗栗縣頭份市和平路102號",
+    "lat": 24.6859788,
+    "lng": 120.906199,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/miaoli-toufen"
+  },
+  {
+    "slug": "miaoli-yuanli",
+    "name": "World Gym苗栗苑裡店",
+    "address": "苗栗縣苑裡鎮為公路65-1號",
+    "lat": 24.4427719,
+    "lng": 120.6529164,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/miaoli-yuanli"
+  },
+  {
+    "slug": "miaoli-zhunan",
+    "name": "World Gym苗栗竹南店",
+    "address": "苗栗縣竹南鎮民權街51巷51號",
+    "lat": 24.6857902,
+    "lng": 120.8780016,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/miaoli-zhunan"
+  },
+  {
+    "slug": "nantou-caotun",
+    "name": "World Gym南投草屯店",
+    "address": "南投縣草屯鎮中山街208號",
+    "lat": 23.9783457,
+    "lng": 120.6830707,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/nantou-caotun"
+  },
+  {
+    "slug": "new-taipei-banciao-chongcing",
+    "name": "World Gym新北板橋重慶店",
+    "address": "新北市板橋區重慶路247號",
+    "lat": 25.0004507,
+    "lng": 121.4636022,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-banciao-chongcing"
+  },
+  {
+    "slug": "new-taipei-banqiao-fuzhong",
+    "name": "World Gym新北板橋府中店",
+    "address": "新北市板橋區中山路一段10號",
+    "lat": 25.0078573,
+    "lng": 121.460188,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-banqiao-fuzhong"
+  },
+  {
+    "slug": "new-taipei-banqiao-shuangshi",
+    "name": "World Gym新北板橋雙十店",
+    "address": "新北市板橋區雙十路2段143號",
+    "lat": 25.0279702,
+    "lng": 121.4748239,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-banqiao-shuangshi"
+  },
+  {
+    "slug": "new-taipei-banqiao-zhongshan",
+    "name": "World Gym新北板橋中山店",
+    "address": "新北市板橋區中山路二段326號",
+    "lat": 25.0196226,
+    "lng": 121.4812165,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-banqiao-zhongshan"
+  },
+  {
+    "slug": "new-taipei-beihsinzhuang",
+    "name": "World Gym新北北新莊店",
+    "address": "新北市新莊區幸福路778號",
+    "lat": 25.0494318,
+    "lng": 121.4471942,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-beihsinzhuang"
+  },
+  {
+    "slug": "new-taipei-danshui",
+    "name": "World Gym新北淡水店",
+    "address": "新北市淡水區大忠街89號",
+    "lat": 25.1776959,
+    "lng": 121.4463619,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-danshui"
+  },
+  {
+    "slug": "new-taipei-hsindian",
+    "name": "World Gym新北新店店",
+    "address": "新北市新店區中興路三段1號",
+    "lat": 24.9769964,
+    "lng": 121.5461308,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-hsindian"
+  },
+  {
+    "slug": "new-taipei-hsinzhuang",
+    "name": "World Gym新北新莊店",
+    "address": "新北市新莊區民安路188巷5號",
+    "lat": 25.023162,
+    "lng": 121.424893,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-hsinzhuang"
+  },
+  {
+    "slug": "new-taipei-jingping",
+    "name": "World Gym新北景平店",
+    "address": "新北市中和區景平路182號",
+    "lat": 24.9924086,
+    "lng": 121.5164034,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-jingping"
+  },
+  {
+    "slug": "new-taipei-linkou",
+    "name": "World Gym新北林口店",
+    "address": "桃園市龜山區復興一路222號",
+    "lat": 25.057701,
+    "lng": 121.3654751,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-linkou"
+  },
+  {
+    "slug": "new-taipei-luzhou",
+    "name": "World Gym新北蘆洲店",
+    "address": "新北市蘆洲區民族路31號",
+    "lat": 25.0849744,
+    "lng": 121.4777086,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-luzhou"
+  },
+  {
+    "slug": "new-taipei-sanchong",
+    "name": "World Gym新北三重店",
+    "address": "新北市三重區重新路2段78號",
+    "lat": 25.0617709,
+    "lng": 121.4974781,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-sanchong"
+  },
+  {
+    "slug": "new-taipei-sanchong-wuhua",
+    "name": "World Gym三重五華店",
+    "address": "新北市三重區五華街282號",
+    "lat": 25.0879576,
+    "lng": 121.4865522,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-sanchong-wuhua"
+  },
+  {
+    "slug": "new-taipei-sanxia",
+    "name": "World Gym台北三峽店",
+    "address": "新北市三峽區文化路59號",
+    "lat": 24.9360815,
+    "lng": 121.3721439,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-sanxia"
+  },
+  {
+    "slug": "new-taipei-taishan",
+    "name": "World Gym新北泰山店",
+    "address": "新北市泰山區明志路三段83號",
+    "lat": 25.0415974,
+    "lng": 121.4251207,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-taishan"
+  },
+  {
+    "slug": "new-taipei-tucheng",
+    "name": "World Gym新北土城店",
+    "address": "新北市土城區青雲路152號",
+    "lat": 24.9833595,
+    "lng": 121.4589232,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-tucheng"
+  },
+  {
+    "slug": "new-taipei-tucheng-haishan",
+    "name": "World Gym土城海山店",
+    "address": "新北市土城區明德路二段62號",
+    "lat": 24.9834888,
+    "lng": 121.4436785,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-tucheng-haishan"
+  },
+  {
+    "slug": "new-taipei-tucheng-zhongyang",
+    "name": "World Gym新北土城中央店",
+    "address": "新北市土城區中央路二段191號",
+    "lat": 24.9754506,
+    "lng": 121.4421511,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-tucheng-zhongyang"
+  },
+  {
+    "slug": "new-taipei-xizhi",
+    "name": "World Gym新北汐止店",
+    "address": "新北市汐止區中興路168號",
+    "lat": 25.065599,
+    "lng": 121.6319695,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-xizhi"
+  },
+  {
+    "slug": "new-taipei-yonghe",
+    "name": "World Gym新北永和店",
+    "address": "新北市永和區仁愛路309號",
+    "lat": 25.0077737,
+    "lng": 121.5034366,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-yonghe"
+  },
+  {
+    "slug": "new-taipei-yonghe-minquan",
+    "name": "World Gym新北永和民權店",
+    "address": "新北市永和區民權路53號",
+    "lat": 24.9966733,
+    "lng": 121.5201917,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-yonghe-minquan"
+  },
+  {
+    "slug": "new-taipei-zhonghe",
+    "name": "World Gym新北中和店",
+    "address": "新北市中和區中山路三段35-3號",
+    "lat": 25.005635,
+    "lng": 121.478544,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/new-taipei-zhonghe"
+  },
+  {
+    "slug": "pingtung-chaozhou",
+    "name": "World Gym屏東潮州店",
+    "address": "",
+    "lat": 22.5544208,
+    "lng": 120.540115,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/pingtung-chaozhou"
+  },
+  {
+    "slug": "pingtung-donggang",
+    "name": "World Gym屏東東港店",
+    "address": "",
+    "lat": 22.4683655,
+    "lng": 120.4507283,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/pingtung-donggang"
+  },
+  {
+    "slug": "pingtung-fengjia",
+    "name": "World Gym屏東逢甲店",
+    "address": "",
+    "lat": 22.6707397,
+    "lng": 120.4873977,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/pingtung-fengjia"
+  },
+  {
+    "slug": "pingtung-ziyou",
+    "name": "World Gym屏東自由店",
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/pingtung-ziyou"
+  },
+  {
+    "slug": "taichung-chongde",
+    "name": "World Gym台中崇德店",
+    "address": "台中市北屯區崇德路二段16號",
+    "lat": 24.1688523,
+    "lng": 120.6855907,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-chongde"
+  },
+  {
+    "slug": "taichung-dajia",
+    "name": "World Gym台中大甲店",
+    "address": "台中市大甲區仁愛街25號",
+    "lat": 24.346962,
+    "lng": 120.618405,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-dajia"
+  },
+  {
+    "slug": "taichung-dali-zhongxing",
+    "name": "World Gym大里中興店",
+    "address": "台中市大里區中興路二段486號",
+    "lat": 24.1111083,
+    "lng": 120.6901462,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-dali-zhongxing"
+  },
+  {
+    "slug": "taichung-daya",
+    "name": "World Gym台中大雅店",
+    "address": "台中市大雅區民生路1段100號",
+    "lat": 24.2263831,
+    "lng": 120.6480768,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-daya"
+  },
+  {
+    "slug": "taichung-dongshan",
+    "name": "World Gym台中東山店",
+    "address": "台中市北屯區東山路一段310號",
+    "lat": 24.1758384,
+    "lng": 120.7213539,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-dongshan"
+  },
+  {
+    "slug": "taichung-dongxing",
+    "name": "World Gym台中東興店",
+    "address": "台中市南區東興路一段81號",
+    "lat": 24.1204054,
+    "lng": 120.655457,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-dongxing"
+  },
+  {
+    "slug": "taichung-e-chung",
+    "name": "World Gym台中一中店",
+    "address": "台中市北區三民路三段125號",
+    "lat": 24.1488082,
+    "lng": 120.6833244,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-e-chung"
+  },
+  {
+    "slug": "taichung-fengyuan",
+    "name": "World Gym台中豐原店",
+    "address": "台中市豐原區南陽路508號",
+    "lat": 24.2492949,
+    "lng": 120.720893,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-fengyuan"
+  },
+  {
+    "slug": "taichung-jinhua-north",
+    "name": "World Gym台中進化北店",
+    "address": "台中市北區進化北路365號",
+    "lat": 24.1629443,
+    "lng": 120.6793343,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-jinhua-north"
+  },
+  {
+    "slug": "taichung-liming",
+    "name": "World Gym台中黎明店",
+    "address": "台中市南屯區黎明路二段425號",
+    "lat": 24.1519712,
+    "lng": 120.6347957,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-liming"
+  },
+  {
+    "slug": "taichung-meicun",
+    "name": "World Gym台中美村店",
+    "address": "台中市西區美村路一段22號",
+    "lat": 24.1546647,
+    "lng": 120.6617329,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-meicun"
+  },
+  {
+    "slug": "taichung-qingshui",
+    "name": "World Gym台中清水店",
+    "address": "台中市清水區中山路129號",
+    "lat": 24.2650105,
+    "lng": 120.5735724,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-qingshui"
+  },
+  {
+    "slug": "taichung-shalu",
+    "name": "World Gym台中沙鹿店",
+    "address": "台中市沙鹿區英才路30號",
+    "lat": 24.2328014,
+    "lng": 120.5720899,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-shalu"
+  },
+  {
+    "slug": "taichung-taiping",
+    "name": "World Gym台中太平店",
+    "address": "台中市太平區立功路115號",
+    "lat": 24.1576965,
+    "lng": 120.7207805,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-taiping"
+  },
+  {
+    "slug": "taichung-tanzi",
+    "name": "World Gym台中潭子店",
+    "address": "台中市潭子區潭興路三段42號",
+    "lat": 24.2117572,
+    "lng": 120.7037473,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-tanzi"
+  },
+  {
+    "slug": "taichung-tunghai",
+    "name": "World Gym台中東海店",
+    "address": "台中市西屯區玉門路81號",
+    "lat": 24.1861231,
+    "lng": 120.6097476,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-tunghai"
+  },
+  {
+    "slug": "taichung-wenxin",
+    "name": "World Gym文心店",
+    "address": "台中市南屯區文心路1段521號",
+    "lat": 24.1542797,
+    "lng": 120.6459045,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-wenxin"
+  },
+  {
+    "slug": "taichung-wuri",
+    "name": "World Gym台中烏日店",
+    "address": "台中市烏日區光日路52號",
+    "lat": 24.1033533,
+    "lng": 120.6245816,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-wuri"
+  },
+  {
+    "slug": "taichung-xitun",
+    "name": "World Gym台中西屯店",
+    "address": "台中市西屯區西屯路2段258號",
+    "lat": 24.1712964,
+    "lng": 120.6469649,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-xitun"
+  },
+  {
+    "slug": "taichung-xuefu",
+    "name": "World Gym台中學府店",
+    "address": "台中市南區學府路170號",
+    "lat": 24.129544,
+    "lng": 120.673965,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taichung-xuefu"
+  },
+  {
+    "slug": "tainan-annan",
+    "name": "World Gym台南安南店",
+    "address": "台南市安南區北安路三段135號",
+    "lat": 23.0406953,
+    "lng": 120.2026408,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-annan"
+  },
+  {
+    "slug": "tainan-anping",
+    "name": "World Gym台南安平店",
+    "address": "台南市安平區慶平路57號",
+    "lat": 22.9968252,
+    "lng": 120.1824198,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-anping"
+  },
+  {
+    "slug": "tainan-changrong",
+    "name": "World Gym台南長榮店",
+    "address": "台南市東區長榮路一段181號",
+    "lat": 22.984187,
+    "lng": 120.217705,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-changrong"
+  },
+  {
+    "slug": "tainan-focus",
+    "name": "World Gym台南FOCUS店",
+    "address": "台南市中西區中山路166號",
+    "lat": 22.9956055,
+    "lng": 120.2102019,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-focus"
+  },
+  {
+    "slug": "tainan-guobing",
+    "name": "World Gym台南國賓店",
+    "address": "台南市東區中華東路一段70號",
+    "lat": 22.9961552,
+    "lng": 120.234176,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-guobing"
+  },
+  {
+    "slug": "tainan-haian",
+    "name": "台南海安店",
+    "address": "台南市北區海安路三段731號",
+    "lat": 23.0121078,
+    "lng": 120.2002143,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-haian"
+  },
+  {
+    "slug": "tainan-rende",
+    "name": "台南仁德店",
+    "address": "台南市仁德區中山路788號",
+    "lat": 22.9741981,
+    "lng": 120.2456186,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-rende"
+  },
+  {
+    "slug": "tainan-shanhua",
+    "name": "World Gym台南善化店",
+    "address": "台南市善化區中正路332號",
+    "lat": 23.1268554,
+    "lng": 120.2941051,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-shanhua"
+  },
+  {
+    "slug": "tainan-shulin",
+    "name": "World Gym台南樹林店",
+    "address": "台南市南區樹林街二段227號",
+    "lat": 22.9862396,
+    "lng": 120.196785,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-shulin"
+  },
+  {
+    "slug": "tainan-ximen",
+    "name": "World Gym台南西門店",
+    "address": "台南市北區西門路四段61號",
+    "lat": 23.0075524,
+    "lng": 120.2064681,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-ximen"
+  },
+  {
+    "slug": "tainan-xinying",
+    "name": "World Gym台南新營店",
+    "address": "台南市新營區中山路56之3號",
+    "lat": 23.3061073,
+    "lng": 120.3203552,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-xinying"
+  },
+  {
+    "slug": "tainan-yongkang",
+    "name": "World Gym台南永康店",
+    "address": "台南市永康區中華路725之1號",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-yongkang"
+  },
+  {
+    "slug": "tainan-yongkang-yongda",
+    "name": "World Gym台南永康永大店",
+    "address": "台南市永康區永大一路51號",
+    "lat": 23.0176682,
+    "lng": 120.2606173,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-yongkang-yongda"
+  },
+  {
+    "slug": "tainan-zhonghua-west",
+    "name": "World Gym台南中華西店",
+    "address": "台南市中西區中華西路二段650號",
+    "lat": 23.0057331,
+    "lng": 120.1867239,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/tainan-zhonghua-west"
+  },
+  {
+    "slug": "taipei-101",
+    "name": "World Gym台北101店",
+    "address": "台北市信義區市府路45號",
+    "lat": 25.0337943,
+    "lng": 121.5649883,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-101"
+  },
+  {
+    "slug": "taipei-beitou-zhonghe",
+    "name": "World Gym台北北投中和店",
+    "address": "台北市北投區中和街366號",
+    "lat": 25.1418571,
+    "lng": 121.4992285,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-beitou-zhonghe"
+  },
+  {
+    "slug": "taipei-changchun",
+    "name": "World Gym台北長春店",
+    "address": "台北市中山區長春路90號",
+    "lat": 25.0547468,
+    "lng": 121.5270972,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-changchun"
+  },
+  {
+    "slug": "taipei-daan",
+    "name": "World Gym台北大安店",
+    "address": "台北市大安區信義路四段6號",
+    "lat": 25.0331714,
+    "lng": 121.544094,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-daan"
+  },
+  {
+    "slug": "taipei-dazhi",
+    "name": "World Gym台北大直店",
+    "address": "台北市中山區堤頂大道二段588號",
+    "lat": 25.0843794,
+    "lng": 121.55968,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-dazhi"
+  },
+  {
+    "slug": "taipei-dazhi-beian",
+    "name": "World Gym台北大直北安店",
+    "address": "台北市中山區北安路554巷19號",
+    "lat": 25.0801921,
+    "lng": 121.5489363,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-dazhi-beian"
+  },
+  {
+    "slug": "taipei-gongguan",
+    "name": "World Gym台北公館店",
+    "address": "台北市中正區羅斯福路四段68號",
+    "lat": 25.0145683,
+    "lng": 121.5342721,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-gongguan"
+  },
+  {
+    "slug": "taipei-guangfu",
+    "name": "World Gym台北光復店",
+    "address": "台北市大安區忠孝東路四段330號",
+    "lat": 25.0410878,
+    "lng": 121.5575167,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-guangfu"
+  },
+  {
+    "slug": "taipei-jingmei",
+    "name": "景美店",
+    "address": "台北市文山區景後街95號",
+    "lat": 24.991914,
+    "lng": 121.542926,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-jingmei"
+  },
+  {
+    "slug": "taipei-lishui",
+    "name": "World Gym台北麗水店",
+    "address": "台北市大安區麗水街18號",
+    "lat": 25.0308146,
+    "lng": 121.5285851,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-lishui"
+  },
+  {
+    "slug": "taipei-minquan-east",
+    "name": "World Gym台北民權東店",
+    "address": "台北市中山區民權東路三段72號",
+    "lat": 25.0618723,
+    "lng": 121.5438284,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-minquan-east"
+  },
+  {
+    "slug": "taipei-minquan-west",
+    "name": "World Gym台北民權西店",
+    "address": "台北市大同區民權西路136號",
+    "lat": 25.062745,
+    "lng": 121.5161631,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-minquan-west"
+  },
+  {
+    "slug": "taipei-minsheng",
+    "name": "World Gym台北民生店",
+    "address": "台北市松山區民生東路三段156號",
+    "lat": 25.0573596,
+    "lng": 121.5477531,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-minsheng"
+  },
+  {
+    "slug": "taipei-minsheng-yuanhuan",
+    "name": "World Gym台北民生圓環店",
+    "address": "台北市松山區民生東路5段196號",
+    "lat": 25.0587146,
+    "lng": 121.5647253,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-minsheng-yuanhuan"
+  },
+  {
+    "slug": "taipei-muzha",
+    "name": "World Gym台北木柵店",
+    "address": "台北市文山區木柵路3段96號",
+    "lat": 24.9885015,
+    "lng": 121.5672288,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-muzha"
+  },
+  {
+    "slug": "taipei-nanjing",
+    "name": "World Gym台北南京店",
+    "address": "台北市松山區南京東路五段196號",
+    "lat": 25.051218,
+    "lng": 121.5642089,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-nanjing"
+  },
+  {
+    "slug": "taipei-neihu",
+    "name": "World Gym台北內湖店",
+    "address": "台北市內湖區康寧路三段72號",
+    "lat": 25.0699943,
+    "lng": 121.6114389,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-neihu"
+  },
+  {
+    "slug": "taipei-neihu-fuhwa",
+    "name": "World Gym台北內湖福華店",
+    "address": "台北市內湖區民權東路六段180巷6號",
+    "lat": 25.0681913,
+    "lng": 121.5919098,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-neihu-fuhwa"
+  },
+  {
+    "slug": "taipei-neihu-gangqia",
+    "name": "World Gym台北內湖港墘店",
+    "address": "台北市內湖區港墘路221巷33號",
+    "lat": 25.0758038,
+    "lng": 121.574965,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-neihu-gangqia"
+  },
+  {
+    "slug": "taipei-ningxia",
+    "name": "World Gym台北寧夏店",
+    "address": "台北市大同區寧夏路11號",
+    "lat": 25.0541531,
+    "lng": 121.514088,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-ningxia"
+  },
+  {
+    "slug": "taipei-songlong",
+    "name": "World Gym台北松隆店",
+    "address": "台北市信義區松隆路125號",
+    "lat": 25.0469113,
+    "lng": 121.571769,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-songlong"
+  },
+  {
+    "slug": "taipei-songren",
+    "name": "World Gym台北松仁店",
+    "address": "台北市信義區松仁路277號",
+    "lat": 25.024194,
+    "lng": 121.5698194,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-songren"
+  },
+  {
+    "slug": "taipei-station",
+    "name": "World Gym台北站前店",
+    "address": "台北市中正區忠孝西路一段50號",
+    "lat": 25.0462219,
+    "lng": 121.51583,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-station"
+  },
+  {
+    "slug": "taipei-taipei-sanxia",
+    "name": "新北三峽店",
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-taipei-sanxia"
+  },
+  {
+    "slug": "taipei-tienmu",
+    "name": "World Gym台北天母店",
+    "address": "台北市士林區中山北路七段34號",
+    "lat": 25.119925,
+    "lng": 121.531146,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-tienmu"
+  },
+  {
+    "slug": "taipei-tienmu-dexing",
+    "name": "World Gym台北天母德行店",
+    "address": "台北市士林區德行東路331巷35號",
+    "lat": 25.1117645,
+    "lng": 121.5376825,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-tienmu-dexing"
+  },
+  {
+    "slug": "taipei-tonghua",
+    "name": "World Gym台北通化店",
+    "address": "台北市大安區通化里臨江街87號",
+    "lat": 25.0301057,
+    "lng": 121.554322,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-tonghua"
+  },
+  {
+    "slug": "taipei-tonling",
+    "name": "台北統領店",
+    "address": "台北市大安區忠孝東路四段201號",
+    "lat": 25.041721,
+    "lng": 121.551463,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-tonling"
+  },
+  {
+    "slug": "taipei-ximen",
+    "name": "World Gym台北西門店",
+    "address": "台北市萬華區西寧南路36號",
+    "lat": 25.0452425,
+    "lng": 121.5064943,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taipei-ximen"
+  },
+  {
+    "slug": "taoyuan-dayou",
+    "name": "World Gym桃園大有店",
+    "address": "桃園市桃園區大有路630號",
+    "lat": 25.0155001,
+    "lng": 121.3171491,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taoyuan-dayou"
+  },
+  {
+    "slug": "taoyuan-dayuan",
+    "name": "World Gym桃園大園店",
+    "address": "桃園市大園區中山南路268號",
+    "lat": 25.0597969,
+    "lng": 121.1997556,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taoyuan-dayuan"
+  },
+  {
+    "slug": "taoyuan-fuxing",
+    "name": "World Gym桃園復興店",
+    "address": "桃園市桃園區復興路186號",
+    "lat": 24.9903136,
+    "lng": 121.311398,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taoyuan-fuxing"
+  },
+  {
+    "slug": "taoyuan-guoqiang",
+    "name": "World Gym桃園國強店",
+    "address": "桃園市桃園區國強一街136號",
+    "lat": 24.9932331,
+    "lng": 121.2864524,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taoyuan-guoqiang"
+  },
+  {
+    "slug": "taoyuan-nankan",
+    "name": "World Gym桃園南崁店",
+    "address": "桃園市蘆竹區南崁路265號",
+    "lat": 25.0494816,
+    "lng": 121.2926285,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taoyuan-nankan"
+  },
+  {
+    "slug": "taoyuan-neili",
+    "name": "World Gym桃園內壢店",
+    "address": "桃園市中壢區中華路一段667號",
+    "lat": 24.9690493,
+    "lng": 121.2503736,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taoyuan-neili"
+  },
+  {
+    "slug": "taoyuan-pingzhen",
+    "name": "World Gym桃園平鎮店",
+    "address": "桃園市平鎮區環南路二段265號",
+    "lat": 24.9405341,
+    "lng": 121.2152523,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taoyuan-pingzhen"
+  },
+  {
+    "slug": "taoyuan-taimall",
+    "name": "World Gym桃園台茂店",
+    "address": "桃園市蘆竹區南崁路一段112號",
+    "lat": 25.0535928,
+    "lng": 121.2885639,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taoyuan-taimall"
+  },
+  {
+    "slug": "taoyuan-yangmei",
+    "name": "World Gym桃園楊梅店",
+    "address": "桃園市楊梅區新農街205號",
+    "lat": 24.9098827,
+    "lng": 121.1457454,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taoyuan-yangmei"
+  },
+  {
+    "slug": "taoyuan-zhongli-zhongshan",
+    "name": "World Gym中壢中山店",
+    "address": "桃園市中壢區中山路136號",
+    "lat": 24.9559414,
+    "lng": 121.2250089,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taoyuan-zhongli-zhongshan"
+  },
+  {
+    "slug": "taoyuan-zhongli-zhongyuan",
+    "name": "World Gym中壢中原店",
+    "address": "桃園市中壢區中華路二段501號",
+    "lat": 24.9624549,
+    "lng": 121.2322687,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/taoyuan-zhongli-zhongyuan"
+  },
+  {
+    "slug": "world-gym-home-office",
+    "name": "",
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/world-gym-home-office",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "yilan-luodong",
+    "name": "World Gym宜蘭羅東店",
+    "address": "宜蘭縣羅東鎮興東路85號",
+    "lat": 24.6783311,
+    "lng": 121.7684031,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/yilan-luodong"
+  },
+  {
+    "slug": "yilan-youai",
+    "name": "World Gym宜蘭友愛店",
+    "address": "宜蘭縣宜蘭市舊城東路50號",
+    "lat": 24.757793,
+    "lng": 121.756604,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/yilan-youai"
+  },
+  {
+    "slug": "yunlin-douliu",
+    "name": "World Gym雲林斗六店",
+    "address": "",
+    "lat": 23.7115784,
+    "lng": 120.5390699,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/yunlin-douliu"
+  },
+  {
+    "slug": "yunlin-huwei",
+    "name": "World Gym雲林虎尾店",
+    "address": "",
+    "lat": 23.7054625,
+    "lng": 120.4311446,
+    "url": "https://www.worldgymtaiwan.com/find-a-club/yunlin-huwei"
+  }
+]
