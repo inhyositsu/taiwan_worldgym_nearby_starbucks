@@ -52,14 +52,35 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 const wgIcon = L.divIcon({ html:'<div style="background:#d61919;color:#fff;padding:2px 6px;border-radius:3px;font-size:11px;font-weight:700;white-space:nowrap">WG</div>', className:'', iconSize:[0,0] });
 const sbIcon = L.divIcon({ html:'<div style="background:#008f4a;color:#fff;padding:2px 6px;border-radius:3px;font-size:11px;font-weight:700;white-space:nowrap">☕</div>', className:'', iconSize:[0,0] });
 
+const overviewLayer = L.layerGroup().addTo(map);
+const wgHitIcon = L.divIcon({ html:'<div style="background:#d61919;color:#fff;padding:2px 6px;border-radius:3px;font-size:11px;font-weight:700;white-space:nowrap;box-shadow:0 1px 3px rgba(0,0,0,.3)">WG</div>', className:'', iconSize:[0,0] });
+const wgMissIcon = L.divIcon({ html:'<div style="background:#888;color:#fff;padding:2px 6px;border-radius:3px;font-size:11px;font-weight:700;white-space:nowrap;opacity:.8">WG</div>', className:'', iconSize:[0,0] });
+
 let activeLayer = null;
+let itemElById = {};
 function clearLayer() { if (activeLayer) { map.removeLayer(activeLayer); activeLayer = null; } }
+
+function drawOverview(data) {
+  overviewLayer.clearLayers();
+  data.forEach((b, idx) => {
+    if (b.lat == null) return;
+    const icon = b.starbucks.length > 0 ? wgHitIcon : wgMissIcon;
+    const m = L.marker([b.lat, b.lng], { icon });
+    const popup = '<b>' + b.name + '</b><br>' + (b.address || '') +
+      (b.starbucks.length > 0
+        ? '<br><span style="color:#008f4a">☕ ' + b.starbucks[0].name + ' ' + b.starbucks[0].distance_m + ' m</span>'
+        : '<br><span style="color:#c00">500m 內無星巴克</span>') +
+      '<br><a href="#" data-idx="' + idx + '" class="detailLink">顯示細節 →</a>';
+    m.bindPopup(popup);
+    m.on('click', () => selectByIndex(idx, { skipPopup: false }));
+    m.addTo(overviewLayer);
+  });
+}
 
 function focusBranch(b) {
   clearLayer();
   if (b.lat == null) return;
   const g = L.featureGroup();
-  L.marker([b.lat, b.lng], { icon: wgIcon }).bindPopup('<b>' + b.name + '</b><br>' + (b.address || '')).addTo(g);
   L.circle([b.lat, b.lng], { radius: 500, color: '#d61919', weight: 1, fillOpacity: 0.08 }).addTo(g);
   for (const sb of b.starbucks) {
     L.marker([sb.lat, sb.lng], { icon: sbIcon }).bindPopup('<b>' + sb.name + '</b><br>' + sb.address + '<br>距離 ' + sb.distance_m + ' m').addTo(g);
@@ -67,7 +88,16 @@ function focusBranch(b) {
   }
   g.addTo(map);
   activeLayer = g;
-  map.fitBounds(g.getBounds().pad(0.3));
+  map.fitBounds(g.getBounds().pad(0.3), { maxZoom: 17 });
+}
+
+function selectByIndex(idx) {
+  const b = window._data[idx];
+  if (!b) return;
+  document.querySelectorAll('.item.active').forEach(x => x.classList.remove('active'));
+  const el = itemElById[idx];
+  if (el) { el.classList.add('active'); el.scrollIntoView({ block: 'center', behavior: 'smooth' }); }
+  focusBranch(b);
 }
 
 function render(data) {
@@ -81,7 +111,9 @@ function render(data) {
 
   const list = document.getElementById('list');
   list.innerHTML = '';
+  itemElById = {};
   rows.forEach((r, i) => {
+    const idx = data.indexOf(r);
     const el = document.createElement('div');
     el.className = 'item' + (r.starbucks.length === 0 ? ' nomatch' : '');
     const sbHtml = r.starbucks.length > 0
@@ -91,11 +123,8 @@ function render(data) {
       '<div class="name"><span class="badge">#' + (i+1) + '</span>' + r.name + '</div>' +
       '<div class="addr">' + (r.address || '(無地址)') + (r.geocoded ? ' <span class="badge">geocoded</span>' : '') + '</div>' +
       sbHtml;
-    el.onclick = () => {
-      document.querySelectorAll('.item.active').forEach(x => x.classList.remove('active'));
-      el.classList.add('active');
-      focusBranch(r);
-    };
+    el.onclick = () => selectByIndex(idx);
+    itemElById[idx] = el;
     list.appendChild(el);
   });
 
@@ -107,6 +136,7 @@ function render(data) {
 
 fetch('results.json').then(r => r.json()).then(data => {
   window._data = data;
+  drawOverview(data);
   render(data);
   const bounds = L.latLngBounds();
   for (const b of data) { if (b.lat != null) bounds.extend([b.lat, b.lng]); }
